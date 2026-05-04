@@ -1,0 +1,1 @@
+Wearer will not be attacked by Tier I Undead Legionnaires unless he attacks first.

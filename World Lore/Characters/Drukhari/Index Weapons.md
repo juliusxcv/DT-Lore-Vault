@@ -1,0 +1,20 @@
+**Ranged**
+[[Blast Pistol]]
+[[Splinter Cannon]]
+[[Splinter Pistol]]
+[[Splinter rifle]]
+[[Stinger pistol]]
+[[Stim-needler]]
+[[Blaster]]
+[[Shredder]]
+[[Dark lance]]
+[[Razorwing]]
+[[Shardcarbine]]
+
+**Melee**
+[[Agoniser]] 
+[[Array of blades]]
+[[Djin Blade]]
+[[Venom blade]]
+[[Razorflail]]
+[[Pain sculptors]]

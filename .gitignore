@@ -1,0 +1,16 @@
+# Obsidian internal files
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins.json
+.obsidian/graph.json
+.obsidian/workspace.json
+.obsidian/cache
+
+# Optional: ignore plugins (uncomment if you don't want them synced)
+.obsidian/plugins
+.obsidian/themes
+
+# OS junk
+.DS_Store
+Thumbs.db

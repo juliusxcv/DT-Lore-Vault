@@ -1,0 +1,1 @@
+Wearer will not be attacked by Tier I Necromutants unless he attacks first.
