@@ -1,3 +1,5 @@
+
+---
 ### From the Journal of Ilia Valev
 
 _(Addendum, separate pages tucked into the back of the ledger)_
@@ -79,6 +81,3 @@ And if it is not—
 Then it is better she believes it is quiet, distant, and uninterested in us.
 
 For now.
-
----
-###

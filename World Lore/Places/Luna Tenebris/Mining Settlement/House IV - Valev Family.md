@@ -28,8 +28,8 @@ Ground Floor
 		- Candle on a Servoskull
 		- Books (3)
 			- Journal of Ilia Valev
-				- [[Ilia Valev - Personal Log]]
-				- [[Ilia Valev - Milas Words]]
+				- [[World Lore/Characters/Miners/Journals/Ilia Valev - Personal Log]]
+				- [[World Lore/Characters/Miners/Journals/Ilia Valev - Milas Words]]
 
 2n Floor
 - Lever

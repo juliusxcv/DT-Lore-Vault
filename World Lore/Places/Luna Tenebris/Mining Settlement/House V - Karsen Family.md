@@ -12,7 +12,7 @@ Ground Floor
 2nd Floor
 - Lever
 - Chest
-	- [[Mara Karsen - Journal]]
+	- [[World Lore/Characters/Miners/Journals/Mara Karsen - Journal]]
 3rd Floor
 - Chest Small
 Roof
