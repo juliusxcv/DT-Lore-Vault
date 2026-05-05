@@ -1,4 +1,3 @@
-## Autopsy Reports:
 
 ## LVL 1 Autopsy:
 Decay is present, but not progressive. The tissues are locked in a state between rot and function, sustained by an unknown signal. When isolated, the body slackens as if waiting for permission to exist. Could these be former Tenebris Research Personnel?
@@ -23,7 +22,7 @@ Residual engram traces indicate these were indeed once Tenebris personnel, cause
 “Then you are admitting failure. You assured me these constructs could be directed—weaponized. Instead, they turn erratic, cluster without command, and ignore direct stimuli. I will not tolerate another uncontrolled outbreak. If there is a second artifact, it will be secured—or destroyed.”
 
 **Magos Biologis:**  
-“Destroyed? You misunderstand the scale. The Legionnaires do not obey _us_ because they are already obeying something else. A stronger signal. Hierarchical. Absolute. Whatever resides within the Black Church is not amplifying the Shard—it is _oversteering_ it. If you proceed with brute-force containment, you will not silence them… you will provoke a response.”
+“Destroyed? You misunderstand the scale. They do not obey _us_ because they are already obeying something else. A stronger signal. Hierarchical. Absolute. Whatever resides within the Black Church is not amplifying the Shard — it is _oversteering_ it. If you proceed with brute-force containment, you will not silence them… you will provoke a response.”
 
 **Inquisitor Harridan:**  
 “…Then we are no longer dealing with a relic.”
