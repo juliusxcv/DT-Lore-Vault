@@ -1,3 +1,9 @@
 
 ## LVL 1 Autopsy:
-The mass contains layers upon layer of fused remains—none fully integrated, yet none separate. Excavation revealed partially intact faces within the torso, some still reacting to light. It is less a creature and more a congregation that decided to fuse.
+The designated _Grave Titan_ stands approximately ten meters in height and represents the largest known biomass convergence within Facility Tenebris. Unlike the Fleshspoils, which emerged naturally from resonance-saturated corpses, the Titan bears unmistakable signs of deliberate intervention. Layered beneath its immense mass are fragments of advanced augmentation frames, industrial reinforcement plating, and remnants of heavily modified human anatomy—suggesting the surviving genetors and cybernetically enhanced personnel became integral to its formation. Entire skeletal structures are embedded throughout the body like architectural supports, while immense hammer-like limbs and dense bone growth provide unnatural structural stability.
+
+Recovered Tenebris archives indicate the creature emerged during the final stages of the containment collapse. When the resonance wiped out most of the facility, only the mentally resilient and heavily augmented survived long enough to attempt countermeasures. Facing rapidly expanding Fleshspoils and total system failure, the remaining genetors deployed an experimental **Corpse Fusion Matrix**—a device intended to forcibly unify and stabilize mutated biomass under centralized control. Their hope was simple: fuse the growing abominations into a controllable organism and reclaim authority over the outbreak.
+
+The Matrix succeeded only in fusion.
+
+Instead of obedience, it triggered runaway assimilation on an unprecedented scale. Fleshspoils merged violently with surrounding corpses, machinery, and surviving personnel as growth accelerated beyond all projections. The resulting organism developed regenerative mass faster than it could decay, incorporating entire chambers into its body before finally achieving grotesque stability.
