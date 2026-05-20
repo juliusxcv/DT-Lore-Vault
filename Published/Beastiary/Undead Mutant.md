@@ -1,0 +1,14 @@
+
+## LVL 1 Autopsy:
+Unlike the undead cadavers recovered in the outer sectors, these subjects retained higher cognitive function at the moment of transformation. Combat recordings show coordinated flanking maneuvers, target prioritization, and limited use of firearms even after extensive mutation. Identification tags recovered from several specimens confirm they were formerly Imperial Guard personnel assigned to internal security within Facility Tenebris. Their presence deep within the sealed complex suggests the existence of secondary access routes beyond the primary lockdown gates.
+
+## LVL 2 Autopsy:
+Dissection revealed a previously undocumented organ embedded along the upper spinal column and extending filament structures into the brain stem. The structure—designated Synaptic Node Core—possesses a black, oil-like surface with reflective properties inconsistent with biological tissue. The organ emits low-level psychic resonance identical to the signal patterns observed in the undead cadavers, though significantly amplified. It appears the Mutants do not merely receive commands; they also relay them, functioning as intermediary control nodes between the cadaver swarms and the unknown signal source beneath the facility.
+
+## LVL 3 Autopsy:
+Several Mutants carried reinforced injector flasks containing a viscous substance composed of unstable genetic material suspended in an iridescent fluid. Exposure trials on deceased tissue resulted in catastrophic mutation within seconds: uncontrolled bone growth, spontaneous organ formation, and aggressive muscular hypertrophy. Living test subjects suffered complete systemic collapse shortly afterward. The Mutants appear capable of administering the catalyst voluntarily during combat, triggering rapid adaptive mutations at the cost of further physiological degradation.
+
+## LVL 4 Autopsy:
+Subjects exposed within the recovered Resonance Chambers beneath Luna Tenebris displayed markedly different outcomes from the undead cadavers. The guardsmen were alive during exposure, conscious through the entire transformation process. Initial mutation was preceded by heightened neural activity, severe psychological distress, and synchronized auditory hallucinations reported by all surviving attendants. Unlike the cadavers, the subjects retained fragments of memory, tactical reasoning, and self-preservation instincts even after complete physiological corruption.
+
+Most disturbing was the behavior immediately following successful conversion. Several newly formed Mutants recognized former squadmates and attempted communication before devolving into violent instability. One subject repeatedly begged for the process to stop while simultaneously defending the chamber from retrieval teams with coordinated suppressive fire. The Resonance Chambers do not merely reanimate the dead—they overwrite the living while leaving enough of the original mind intact to suffer the transition.
