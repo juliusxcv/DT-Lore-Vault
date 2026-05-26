@@ -48,14 +48,18 @@ ___
 **Have you seen the Killteam?** 
 >"When the Deathwatch stormed through, some of the lads thought they'd finally get a chance to fight beside the Angels of Death. Nope. They didn’t even glance our way. No love for grunts, I suppose."
 
-**Closing Statement:** 
->"You’re here now, so maybe we don’t die horribly. Or maybe we do. Either way, let’s make it interesting."
-
-**When asked about the Zombies/Undead Legionnaires:**
->You can outwalk them if you keep your head. You can outshoot them if you don’t panic. Just don’t let them pile up—three or four together, and they get dangerous.
-
 **When asked about the Zombies/Undead Legionnaires:**
 >We believe that they climbed. Shafts, vents, service tunnels we sealed months ago. Something below is pushing them upward.
 
 **When asked about the Miners:**
 >Structures are unstable. Wood, prefab alloys, rot everywhere. If something’s living in there now, it’s not worth our time.
+
+**When confronted about Darius Koln** 
+>"The Lieutenant didn't make it. I'm sorry. I know that's not what you wanted to hear."
+>
+>"Complications from the incident. I treated what I could treat. Some things are outside the scope of field medicine."
+>
+>"I'm a medic, not a sanctioned psyker. I can tell you his vitals were abnormal in the final days. I can't tell you what that means theologically. That's above my authority."
+
+**Closing Statement:** 
+>"You’re here now, so maybe we don’t die horribly. Or maybe we do. Either way, let’s make it interesting."

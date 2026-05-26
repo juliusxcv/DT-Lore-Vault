@@ -9,7 +9,7 @@ Ground Floor
 - Security Access Panel
 	- Personal Lockers
 		- Lt Darius Koln: PW: ARM-257
-			- [[Lt Darius Koln Personal Log]]
+			- [[Lt Darius Koln - Deceased]]
 			- Purple Sidearm
 		- Sgt Arik Varn
 		- Corporal Nia Drask

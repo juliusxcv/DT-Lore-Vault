@@ -16,8 +16,8 @@ Within the regiment, there are whispers of a hidden agenda. Some speculate that 
 ### Topside Patrol Theta
 Patrol Theta was on Duty for patrolling the Perimeter when the Incident occured. They have been locked out and without the means to repair the Vox Relay Tower have been surviving and holding out guarding the Theta Gate.
 
-Deceased
-[[Lt Darius Koln Personal Log]]
+Deceased/Missing
+[[Lt Darius Koln - Deceased]]
 
 Commanding Officer:
 **[[0_Sergeant Arik Varn]]**

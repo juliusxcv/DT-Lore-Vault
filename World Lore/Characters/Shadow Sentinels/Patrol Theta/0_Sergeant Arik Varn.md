@@ -47,11 +47,23 @@ ___
 **Have you seen the Killteam?** 
 >"The Killteam showed up and swept past us without a word. I don’t care for their silence, but seeing those Astartes move like a storm on the horizon... it gave the lads some hope. For a while, at least."
 
-**Closing Statement:** 
->"Keep your wits about you. This moon has teeth now, and it’s biting hard."
+**When asked about the Miners:**
+>These Miners lived there before Theta Gate was built. Cleared decades ago. No tactical value, no supply caches worth the effort. Maybe there are some family records left from that time but we never bothered.
 
 **When asked about the Zombies/Undead Legionnaires:**
 >"Lab techs, data-adepts, maintenance crews from the lower levels. Same uniforms. Same faces. Whatever’s animating them isn’t interested in who they used to be."
 
-**When asked about the Miners:**
->These Miners lived there before Theta Gate was built. Cleared decades ago. No tactical value, no supply caches worth the effort. Maybe there are some family records left from that time but we never bothered.
+**When confronted about Darius Koln** 
+>"The Lieutenant is gone. KIA during the incident. That's what the log says and that's what I'll tell anyone who asks."
+>
+>"We follow the doctrine. Something shows signs of corruption, you don't wait for confirmation. Waiting is how it spreads. I won't apologize for that and I won't explain it further."
+>
+>**If players mention warp taint specifically:**
+> "We follow the doctrine. Something shows signs of corruption, you don't wait for confirmation. Waiting is how it spreads. I won't apologize for that and I won't explain it further."
+> 
+>"He was a good officer. The best I served under. That's all I'll say about him."
+>
+>"Whatever you think you read in there — he was my commanding officer and my friend and I put him down before he could open that gate. I'd do it again. Are we done?"
+
+**Closing Statement:** 
+>"Keep your wits about you. This moon has teeth now, and it’s biting hard."

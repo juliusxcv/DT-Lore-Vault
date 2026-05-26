@@ -3,7 +3,7 @@
 [[Mission 0.1 - Landfall]]
 [[Mission 1 - Establish Communications]]
 [[Mission 2 - First Contact]]
-[[Mission 3 - Beachhead, get the base up and running]]
+[[Mission 3 - Securing a Beachhead]]
 [[Mission 4 - Fight the Horde]]
 
 ### Sidequests
