@@ -14,3 +14,45 @@ Then, the Witch. The girl with the fractured mind. She unleashed the Warp-fire, 
 Keep my feet steady, my blade sharp, and my hate pure.
 
 For the Emperor.
+
+---
+
+[SECURE VOX TRANSMISSION – IMPERIALIS AEGIS]  
+[ORIGIN: INQUISITOR SERAPHINA VALERIA]  
+[PRIORITY: OPERATIVE RESPONSE – NULLIS HELBRECHT]
+
+Operative Helbrecht,
+
+Your report has been received.
+Your faith remains… unmistakable.
+
+I note your successful participation in generator restoration and your observations concerning the hostile cadavers encountered within the settlement structures. Their emergence from beneath civilian habitation supports broader contamination hypotheses currently under investigation.
+
+Regarding your commentary on fellow operatives:
+
+You are not deployed to admire them.
+Nor to judge the worth of their souls.
+You are deployed to survive beside them.
+
+The Emperor did not build His Imperium from saints alone. He built it from soldiers, laborers, criminals, machines and inconvenient necessities alike. You would be wise to remember this distinction.
+
+Your praise of the Skitarii unit is operationally sound. Reliability is a valuable trait.
+Your remarks concerning Operative Thornkell are more interesting.
+You describe hesitation followed by revised assessment.
+
+Hatred is a useful weapon when properly directed. Left unattended, it becomes vanity disguised as conviction.
+
+As for your interpretation of providence:
+
+Perhaps the Emperor guided your steps.
+Or perhaps another operative’s misfortune revealed a danger you would otherwise have overlooked.
+
+I leave theological certainty to priests. I concern myself with outcomes.
+
+The dead that seized your companion are not isolated incidents. Remain alert inside enclosed structures and assume compromised interiors unless verified otherwise.
+
+Your blade may remain sharp.
+See that your judgment does as well.
+
+— Inquisitor Seraphina Valeria  
+Imperialis Aegis

@@ -29,3 +29,53 @@ The Mechanical One was efficient. I begin to not dislike him as much. There is a
 The Beautiful One seemed uninterested in the battle at first, but then she charged into the fray. Admirable.
 And once again, the Mask blessed me, and foes exited the stage in droves.
 The battle rages on.
+
+---
+
+**Transmission: Priority Response – Operative PSY-VEX**  
+**Origin:** Inquisitor Seraphina Valeria  
+**Channel:** Secure Vox Relay – Imperialis Aegis  
+**Clearance:** Operative-Level Authorization
+
+Operative Thornkell,
+
+Your report has been received and reviewed.
+
+Your survival despite injury is noted. Exercise greater restraint. The Emperor has invested resources into your continued function, and I would prefer not to squander them through preventable recklessness.
+
+The biological specimens you recovered are to remain contained until further examination can be conducted. Do not attempt psychic communion, ritual consultation, or independent experimentation involving these materials or the entity you designate as _the Mask_. Curiosity is tolerable. Uncontrolled contact is not.
+
+Your repeated references to _music_, _singing_, and moving shadows have drawn my attention.
+
+You are not the first individual on Luna Tenebris to describe such phenomena.
+
+That does not make them benign.
+
+Continue documenting these experiences precisely as they occur:
+
+- direction of perceived origin
+- emotional state preceding manifestation
+- accompanying psychic or environmental disturbances
+- correlation with hostile activity or anomalous structures
+
+I am particularly interested in your mention of the Hellbrun report and the assertion that _the moon is singing_. Your intuition may be misguided.
+
+Or valuable.
+
+Do not mistake either possibility for validation.
+
+Your battlefield observations concerning the other operatives are similarly noted. Cooperation—however reluctantly achieved—remains preferable to martyrdom or isolation. Even unconventional assets possess utility when properly directed.
+
+The vox relay confirmation and hostile movement toward your position were anticipated. You are correct in one assessment:
+
+Violence approaches.
+
+I advise you not to romanticize it.
+
+Continue holding the position and maintain transmission discipline. Should the phenomena you pursue reveal themselves again, you will observe first and indulge instinct second.
+
+The shadows are patient.
+
+You would be wise to be the same.
+
+**—Inquisitor Seraphina Valeria**
