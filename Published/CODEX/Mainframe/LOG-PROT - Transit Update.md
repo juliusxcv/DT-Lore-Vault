@@ -1,5 +1,5 @@
 ---
-cost: 30
+cost: 100
 ---
 **TRANSPORT LOG**  
 **Origin:** Delta Gate Specimen Transit Authority  
