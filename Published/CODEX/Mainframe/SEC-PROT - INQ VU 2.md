@@ -1,5 +1,5 @@
 ---
-cost: 50
+cost: 250
 ---
 **INTRAFACILITY PLATFORM ACTIVATION**  
 **Timestamp:** // 04:18:02  
