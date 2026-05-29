@@ -1,5 +1,5 @@
 ---
-cost: 50
+cost: 250
 ---
 **BIOHAZARD INCIDENT REPORT**  
 **Timestamp:**  // 04:51:12  
