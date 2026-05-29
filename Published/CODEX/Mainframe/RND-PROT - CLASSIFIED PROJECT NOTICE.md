@@ -1,5 +1,5 @@
 ---
-cost: 5
+cost: 25
 ---
 **CLASSIFIED PROJECT NOTICE**  
 **Origin:** Magos Control Sanctum  
