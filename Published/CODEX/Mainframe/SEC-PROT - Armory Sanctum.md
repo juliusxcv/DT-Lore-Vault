@@ -1,5 +1,5 @@
 ---
-cost: 20
+cost: 120
 ---
 **SECURITY REPORT**  
 **Origin:** Armory Sanctum Custodian Unit  
