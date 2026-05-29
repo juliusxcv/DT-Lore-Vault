@@ -1,7 +1,7 @@
 ---
-cost: 0
+cost: 15
 ---
-<
+
 ## **Form 77-B/HTX-Δ — Shuttle Departure Request Submission**
 
 ### **For Use by Personnel Stationed on Luna Tenebris**
