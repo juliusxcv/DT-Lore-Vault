@@ -1,5 +1,5 @@
 ---
-cost: 50
+cost: 250
 ---
 **SECURITY COGITATOR NOTICE**  
 **Timestamp:** // 05:16:20  
