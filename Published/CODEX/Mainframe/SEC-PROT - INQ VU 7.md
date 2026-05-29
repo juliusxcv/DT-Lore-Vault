@@ -1,5 +1,5 @@
 ---
-cost: 20
+cost: 50
 ---
 **AUTOMATED SECURITY DISPATCH**  
 **Timestamp:**  // 04:59:47  

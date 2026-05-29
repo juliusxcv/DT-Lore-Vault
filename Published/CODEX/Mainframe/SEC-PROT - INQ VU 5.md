@@ -1,5 +1,5 @@
 ---
-cost: 20
+cost: 50
 ---
 **VOX FRAGMENT – KILLTEAM TRANSMISSION**  
 **Timestamp:**  // 04:43:06  
