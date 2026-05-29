@@ -1,5 +1,5 @@
 ---
-cost: 50
+cost: 150
 ---
 **FABRICATION STATUS REPORT**  
 **Origin:** Manufactorum Line IX  
