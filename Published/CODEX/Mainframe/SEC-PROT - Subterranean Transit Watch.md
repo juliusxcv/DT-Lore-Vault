@@ -1,5 +1,5 @@
 ---
-cost: 20
+cost: 120
 ---
 **SECURITY PATROL REPORT**  
 **Origin:** Subterranean Transit Watch  
