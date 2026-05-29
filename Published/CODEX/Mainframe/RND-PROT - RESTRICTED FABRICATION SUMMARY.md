@@ -1,5 +1,5 @@
 ---
-cost: 45
+cost: 145
 ---
 **RESTRICTED FABRICATION SUMMARY**  
 **Origin:** Manufactorum Oversight Archive  
