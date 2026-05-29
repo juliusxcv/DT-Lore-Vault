@@ -1,5 +1,5 @@
 ---
-cost: 250
+cost: 500
 ---
 **INTERNAL COMMUNIQUÉ**  
 **Origin:** Vehicle Test Division  
