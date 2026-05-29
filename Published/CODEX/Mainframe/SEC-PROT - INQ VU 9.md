@@ -1,5 +1,5 @@
 ---
-cost: 50
+cost: 250
 ---
 **SYSTEM ANOMALY REPORT**  
 **Timestamp:**  // 05:31:14  
