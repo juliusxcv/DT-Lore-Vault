@@ -1,5 +1,5 @@
 ---
-cost: 15
+cost: 30
 ---
 
 ## **Form 77-B/HTX-Δ — Shuttle Departure Request Submission**
