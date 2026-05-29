@@ -1,5 +1,5 @@
 ---
-cost: 20
+cost: 120
 ---
 **DATA FRAGMENT – LOW PRIORITY**  
 **Origin:** Junior Enginseer Lyr-09 Personal Cogitator Archive  
