@@ -1,5 +1,5 @@
 ---
-cost: 50
+cost: 250
 ---
 **SECURITY MEMO – TRANSIT MONITORING**  
 **Timestamp:**  // 04:24:15  
