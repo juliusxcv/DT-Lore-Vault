@@ -1,5 +1,5 @@
 ---
-cost: 50
+cost: 250
 ---
 **THETA GATE LOCKDOWN OVERRIDE**  
 **Security Clearance:** Inquisitorial Authority  
