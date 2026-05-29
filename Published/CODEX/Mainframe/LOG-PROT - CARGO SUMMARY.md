@@ -1,5 +1,5 @@
 ---
-cost: 10
+cost: 40
 ---
 **LOGISTICA NODE EPSILON – CARGO SUMMARY**  
 **Origin:** Beta Gate Cargo Office  
