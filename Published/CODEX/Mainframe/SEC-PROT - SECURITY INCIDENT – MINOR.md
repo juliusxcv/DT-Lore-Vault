@@ -1,5 +1,5 @@
 ---
-cost: 20
+cost: 120
 ---
 **SECURITY INCIDENT – MINOR**  
 **Origin:** Garrison Barracks  
