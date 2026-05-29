@@ -1,5 +1,5 @@
 ---
-cost: 15
+cost: 30
 ---
 **CHAPEL ANNOUNCEMENT**  
 **Origin:** Chapel of the Omnissiah  
