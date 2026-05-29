@@ -1,5 +1,5 @@
 ---
-code: LOG-2TR
+cost: "50"
 ---
 # **RESEARCH FACILITY TENEBRIS — THETA GATE**
 
@@ -30,7 +30,7 @@ code: LOG-2TR
 • Lost during unauthorized sortie.  
 • Transponder intermittently detected at depths beyond facility mapping resolution.  
 • Recovery recommended only with Inquisitorial sanction.  
-• Possible interference from subterranean void-echo anomalies.
+• Possible interference from subterranean anomalies.
 
 ---
 

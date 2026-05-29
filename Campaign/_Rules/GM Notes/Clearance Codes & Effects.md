@@ -28,7 +28,7 @@
 | FLT-215 | Request form for shuttle deployment (non-priority)       | [[FLT-2VA - Request form for shuttle deployment]]                                                                            |       |
 | VEH-143 | Authorization to operate ground crawler (Class B)        |                                                                                                     |       |
 | BAY-412 | Entry to Mechanicum Bay Theta                            |                                                                                                     |       |
-| LOG-276 | Clearance to inspect vehicle manifest logs               | [[Vehicle Manifest Logs]]                                                                           |       |
+| LOG-276 | Clearance to inspect vehicle manifest logs               | [[LOG-PROT - Vehicle Manifest]]                                                                           |       |
 | XEN-893 | Access to non-classified xenos encounter records         | [[ERC-7A9 - Encounter Records Non-Classified]]                                                                |       |
 | CRT-741 | Request form for artifact containment crate              | Droppod with 1 Artifact Containment Crate, 3 Activations                                            |       |
 | ORD-364 | Authorization to submit field notes on xenos tech        |                                                                                                     | +0.25 |
