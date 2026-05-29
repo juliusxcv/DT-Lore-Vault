@@ -1,5 +1,5 @@
 ---
-cost: 50
+cost: 250
 ---
 **INTERNAL DEFENSE ALERT**  
 **Timestamp:** // 04:37:41  
