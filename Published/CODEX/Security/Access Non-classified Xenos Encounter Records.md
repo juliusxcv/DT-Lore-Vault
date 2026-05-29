@@ -1,5 +1,6 @@
 ---
 code: XEN-8PL
+lvl: "6"
 ---
 
 XENOS ENCOUNTER RECORD 11-THETA
