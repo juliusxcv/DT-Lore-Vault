@@ -1,5 +1,5 @@
 ---
-cost: 30
+cost: 130
 ---
 **LOGISTICA REQUISITION**  
 **Origin:** Logistica Node Epsilon  
