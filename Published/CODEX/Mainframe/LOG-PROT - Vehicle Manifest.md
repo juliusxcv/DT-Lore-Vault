@@ -9,7 +9,6 @@ cost: "50"
 
 **File Ref:** TG-VM/773-Σ  
 **Clearance Level:** Magenta-5 (Mechanicus / Inquisition Override)  
-**Last Updated:** 998.M41.220  
 **Servitor-Scribe Responsible:** Logi-Unit 44-Theta (Status: Inactive)
 
 ---
@@ -21,7 +20,7 @@ cost: "50"
 **Designation:** VTOL Tactical Transport  
 **Pattern:** Valkyrie Sky-Talon Variant  
 **Assigned Personnel:** Shadow Sentinels, Transport Wing Gamma  
-**Last Recorded Flight:** 997.M41.912 – Extraction Run, Sublevel Delta
+**Last Recorded Flight:**  – Extraction Run, Sublevel Delta
 
 **Status:** **MISSING**  
 **Location:** **UNKNOWN**  
