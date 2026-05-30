@@ -20,10 +20,15 @@ cost: 250
 **Hydraulic release – Theta Gate**
 
 > **VORTHAN:** Gate is opening. Maintain formation.
+
 > **VOLN:** No breach damage. Defenses intact.
+
 > **TAEL:** Curious. Harridan's disappearance and yet the outer systems still answer authority.
+
 > **KHELDAN:** Then corruption has not yet consumed this place fully.
+
 > **KAEL:** Or it has learned patience.
+
 > **VOLN:** Contact. Eleven o'clock.
 
 *Targeting rune activation*
