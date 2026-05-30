@@ -34,9 +34,13 @@ cost: 250
 *Targeting rune activation*
 
 > **VORTHAN:** Hold.
+
 > **TAEL:** Local military. Matte blue armor.
+ 
 > **VOLN:** Perimeter troops.
+
 > **KHELDAN:** Astra Militarum.
+
 > **KAEL:** Shadow Sentinels.
 
 *3.2-second silence*
@@ -46,19 +50,28 @@ cost: 250
 *Distant vox traffic – unidentified human voices*
 
 > **VOLN:** Defensive positions only. Weapons disciplined.
+
 > **TAEL:** They expected someone.
+
 > **KHELDAN:** Or they expect death often enough to stop asking questions.
+
 > **KAEL:** Their optics track us. No challenge.
+
 > **VORTHAN:** Inquisitorial seals confirmed. We proceed.
 
 *Footsteps – metal gantry*
 *Environmental pressure equalization*
 
 > **TAEL:** Relay architecture appears operational. Remarkable for an abandoned station.
+
 > **KHELDAN:** Abandoned things do not maintain watchfires.
+
 > **VOLN:** Blackstar secured.
+
 > **VORTHAN:** Good. We move to transit access.
+
 > **KAEL:** And the Sentinels?
+
 > **VORTHAN:** Leave them to their vigil.
 
 **[Vox static]**  

@@ -24,83 +24,113 @@ cost: 250
 *Footsteps – reinforced decking*  
 *Ambient resonance – low frequency*
 
-**VORTHAN:** Move.
-**VOLN:** Passage continues beyond theatre structure.
-**KHELDAN:** A laboratory does not require walls this thick.
+> **VORTHAN:** Move.
+
+> **VOLN:** Passage continues beyond theatre structure.
+
+> **KHELDAN:** A laboratory does not require walls this thick.
 
 *Bulkhead impact – armored gauntlet*
 
-**VOLN:** Confirmed.
-**TAEL:** Adamantium reinforcement.
-**KAEL:** Defensive emplacements.
-**TAEL:** Observation slits.
-**KHELDAN:** Fortifications.
+> **VOLN:** Confirmed.
+
+> **TAEL:** Adamantium reinforcement.
+
+> **KAEL:** Defensive emplacements.
+
+> **TAEL:** Observation slits.
+
+> **KHELDAN:** Fortifications.
 
 *Heavy blast door detected*
 
-**VOLN:** Multiple seal systems.
-**VORTHAN:** Against intrusion?
-**KAEL:** Or containment.
+> **VOLN:** Multiple seal systems.
+
+> **VORTHAN:** Against intrusion?
+
+> **KAEL:** Or containment.
 
 *Brief silence*
 
-**TAEL:** These sectors differ from the upper facility.
-**VOLN:** Construction age inconsistent.
-**TAEL:** Newer, much newer.
+> **TAEL:** These sectors differ from the upper facility.
+
+> **VOLN:** Construction age inconsistent.
+
+> **TAEL:** Newer, much newer.
 
 *Low resonance – increasing*
 
-**VOLN:** Signal returning.
-**VORTHAN:** Explain.
+> **VOLN:** Signal returning.
 
-**VOLN:** Earlier anomaly.
-**TAEL:** The resonance?
-**VOLN:** Yes.
-**KHELDAN:** Warp activity?
-**VOLN:** Negative.
+> **VORTHAN:** Explain.
+
+> **VOLN:** Earlier anomaly.
+
+> **TAEL:** The resonance?
+
+> **VOLN:** Yes.
+
+> **KHELDAN:** Warp activity?
+
+> **VOLN:** Negative.
 
 *Static distortion*
 
-**VOLN:** Signal lacks empyric profile.
-**TAEL:** Machine source?
-**VOLN:** Unknown.
-**KAEL:** Range?
-**VOLN:** Closer.
+> **VOLN:** Signal lacks empyric profile.
+
+> **TAEL:** Machine source?
+
+> **VOLN:** Unknown.
+
+> **KAEL:** Range?
+
+> **VOLN:** Closer.
 
 *Footsteps slow
 
-**VOLN:** Strength increasing with depth.
-**TAEL:** This section was built around something.
-**KAEL:** Agreed.
-**KHELDAN:** Then we approach the wound.
+> **VOLN:** Strength increasing with depth.
+
+> **TAEL:** This section was built around something.
+
+> **KAEL:** Agreed.
+
+> **KHELDAN:** Then we approach the wound.
 
 *Massive pressure door – partially opened*
 
-**VOLN:** Sergeant.
-**VORTHAN:** Report.
-**VOLN:** Additional fortifications ahead.
-**TAEL:** Impossible...
+> **VOLN:** Sergeant.
+
+> **VORTHAN:** Report.
+
+> **VOLN:** Additional fortifications ahead.
+
+> **TAEL:** Impossible...
 
 *7.4-second silence
 
-**TAEL:** This was no quarantine retrofit.
-**KAEL:** No.
-**KAEL:** It was deliberate.
+> **TAEL:** This was no quarantine retrofit.
+
+> **KAEL:** No.
+
+> **KAEL:** It was deliberate.
 
 *Low harmonic vibration detected
 
-**VOLN:** Resonance increasing.
-**KHELDAN:** From beyond the gate?
-**VOLN:** Affirmative.
+> **VOLN:** Resonance increasing.
+
+> **KHELDAN:** From beyond the gate?
+
+> **VOLN:** Affirmative.
 
 *Static surge*
 
-**TAEL:** By the Throne...
-**VORTHAN:** Record everything.
+> **TAEL:** By the Throne...
+
+> **VORTHAN:** Record everything.
 
 *Severe signal corruption*
 
-**VOLN:** Sergeant—
+> **VOLN:** Sergeant—
 
 *Telemetry rupture*  
 *Vox distortion*  

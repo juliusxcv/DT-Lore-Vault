@@ -19,109 +19,133 @@ cost: 250
 *Pressure door opening*  
 *Environmental alarms – muted*
 
-**VOLN:** Corridor obstructed.
-**KHELDAN:** Emperor preserve us.
+> **VOLN:** Corridor obstructed.
+
+> **KHELDAN:** Emperor preserve us.
 
 *8.4-second silence*
 
-**TAEL:** That is not decay.
-**VORTHAN:**> Advance slowly.
+> **TAEL:** That is not decay.
+
+> **VORTHAN:**> Advance slowly.
 
 *Footsteps – viscous surface contact*
 
-**VOLN:** Organic mass across walls and flooring.
-**TAEL:** Resin-like.
-**KAEL:** No.
+> **VOLN:** Organic mass across walls and flooring.
+
+> **TAEL:** Resin-like.
+
+> **KAEL:** No.
 
 *Pause*
 
-**KAEL:** Flesh.
+> **KAEL:** Flesh.
 
 *Audio distortion – wet mechanical sounds*
 
-**TAEL:** Throne...
+> **TAEL:** Throne...
 
 *Vox gain fluctuation*
 
-**TAEL:** Human tissue. Uncontrolled growth pattern. Entire corridor integrated.
-**VOLN:** Structural supports consumed.
-**KHELDAN:** Mutation.
+> **TAEL:** Human tissue. Uncontrolled growth pattern. Entire corridor integrated.
+
+> **VOLN:** Structural supports consumed.
+
+> **KHELDAN:** Mutation.
 
 *Distant scraping*
 
-**VORTHAN:** Contact?
-**VOLN:** Negative.
-**TAEL:** Look at the walls.
+> **VORTHAN:** Contact?
+
+> **VOLN:** Negative.
+
+> **TAEL:** Look at the walls.
 
 *3.1-second silence*
 
-**TAEL:** Faces.
+> **TAEL:** Faces.
 
 *Wet movement detected*
 
-**VOLN:** Confirmed.
-**TAEL:** Emperor...
-**KHELDAN:** They live?
-**TAEL:** I do not know.
+> **VOLN:** Confirmed.
+
+> **TAEL:** Emperor...
+
+> **KHELDAN:** They live?
+
+> **TAEL:** I do not know.
 
 *Faint biological motion*
 
-**VOLN:** Ocular response.
-**KAEL:** They follow movement.
+> **VOLN:** Ocular response.
+
+> **KAEL:** They follow movement.
 
 *Recorded breathing – elevated*
 
-**TAEL:** The growth incorporated them alive… or preserved portions of them.
-**KHELDAN:** Mercy would be cleaner.
+> **TAEL:** The growth incorporated them alive… or preserved portions of them.
+
+> **KHELDAN:** Mercy would be cleaner.
 
 *Low organic sound – indistinct*
 
-**TAEL:** No vocalization.
-**VOLN:** Limbs embedded within corridor walls. Residual movement observed.
-**VORTHAN:** Maintain formation.
+> **TAEL:** No vocalization.
+
+> **VOLN:** Limbs embedded within corridor walls. Residual movement observed.
+
+> **VORTHAN:** Maintain formation.
 
 *Mechanical activity approaching*
 
-**VOLN:** Movement front.
+> **VOLN:** Movement front.
 
 *Servo mechanisms detected*
 
-**TAEL:** Sanitation units.
+> **TAEL:** Sanitation units.
 
 *Cleaning servitor audio*  
 *Industrial cutters / chemical sprayers*
 
-**VOLN:** Three servitors.
-**TAEL:** They're still operating.
-**KHELDAN:** Blind machines serving a dead purpose.
+> **VOLN:** Three servitors.
+
+> **TAEL:** They're still operating.
+
+> **KHELDAN:** Blind machines serving a dead purpose.
 
 *Chemical spray discharge*
 
-**TAEL:** They're attempting removal.
-**VOLN:** Ineffective.
+> **TAEL:** They're attempting removal.
+
+> **VOLN:** Ineffective.
 
 *Wet tearing sound*
 
-**TAEL:** The tissue regrows.
-**KAEL:** This corridor was once maintained.
-**KHELDAN:** No longer.
+> **TAEL:** The tissue regrows.
+
+> **KAEL:** This corridor was once maintained.
+
+> **KHELDAN:** No longer.
 
 *Sudden servitor malfunction*  
 *Metallic impact*
 
-**VOLN:** Servitor failure.
-**TAEL:** Negative—look—
+> **VOLN:** Servitor failure.
+
+> **TAEL:** Negative—look—
 
 *Short static burst*
 
-**VOLN:** Biological intrusion into mechanical systems.
-**KHELDAN:** Enough.
+> **VOLN:** Biological intrusion into mechanical systems.
+
+> **KHELDAN:** Enough.
 
 *Chainsword ignition*
 
-**VORTHAN:** Hold position.
-**KHELDAN:** This place breeds blasphemy.
-**VORTHAN:** And we are here to understand it.
+> **VORTHAN:** Hold position.
+
+> **KHELDAN:** This place breeds blasphemy.
+
+> **VORTHAN:** And we are here to understand it.
 
 *Transcript fragment ends*
 
