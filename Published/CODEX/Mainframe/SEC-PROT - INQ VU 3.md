@@ -19,40 +19,49 @@ cost: 250
 *Pressure doors opening*  
 *Footsteps – metal decking*
 
-**VOLN:** Corridor secure.
-**TAEL:** Lighting operational.
-**KAEL:** Atmospheric purity within tolerance.
-**KHELDAN:** No bodies.
+> **VOLN:** Corridor secure.
+
+> **TAEL:** Lighting operational.
+
+> **KAEL:** Atmospheric purity within tolerance.
+
+> **KHELDAN:** No bodies.
 
 *Pause*
 
-**TAEL:** No personnel either.
-**VORTHAN:** Report.
-**TAEL:** Systems functioning across multiple sectors. Stable power. Active circulation. Machine maintenance appears current.
-**VOLN:** Yet no labor movement.
+> **TAEL:** No personnel either.
+
+> **VORTHAN:** Report.
+
+> **TAEL:** Systems functioning across multiple sectors. Stable power. Active circulation. Machine maintenance appears current.
+
+> **VOLN:** Yet no labor movement.
 
 *Distant ventilation hum*
 
-**VOLN:** It sounds empty.
+> **VOLN:** It sounds empty.
 
 *Servo-skull proximity alert*  
 *Machine vox activation*
 
-**UNIDENTIFIED SERVO-SKULL:** _Verification required._
- _Escort authorization absent._  
- _Identify—_
+> **UNIDENTIFIED SERVO-SKULL:** _Verification required._
+>  _Escort authorization absent._  
+>  _Identify—_
 
-**KHELDAN:** Enough.
+> **KHELDAN:** Enough.
 
 *Weapon discharge – single bolt round*  
 *Servo-skull destruction*  
 *Metal impact*
 
-**TAEL:** Brother—
+> **TAEL:** Brother—
 
-**KHELDAN:** It questioned authority already given.
-**VOLN:** Verification unit destroyed.
-**KAEL:** Efficient.
-**VORTHAN:** Maintain discipline!
+> **KHELDAN:** It questioned authority already given.
+
+> **VOLN:** Verification unit destroyed.
+
+> **KAEL:** Efficient.
+
+> **VORTHAN:** Maintain discipline!
 
 *Transcript ends*
