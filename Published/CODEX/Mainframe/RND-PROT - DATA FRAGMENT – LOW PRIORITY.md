@@ -10,7 +10,7 @@ cost: 120
 
 **Outbound Message – Lyr-09**  
 **Recipient:** Enginseer Candidate Pell-22  
-**Timestamp:** 760.M41
+
 
 > Pell—
 > 
@@ -25,7 +25,7 @@ cost: 120
 **Timestamp:** +00:07:13
 
 > Another BLACKFEATHER hull?
-> > Tell me they finally let you near the Corvus project.
+> Tell me they finally let you near the Corvus project.
 
 ---
 

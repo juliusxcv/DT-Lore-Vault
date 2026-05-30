@@ -19,43 +19,42 @@ cost: 250
 **Seal disengagement audible**  
 **Hydraulic release – Theta Gate**
 
-**VORTHAN:** Gate is opening. Maintain formation.
-**VOLN:** No breach damage. Defenses intact.
-**TAEL:** Curious. Harridan's disappearance and yet the outer systems still answer authority.
-**KHELDAN:** Then corruption has not yet consumed this place fully.
-**KAEL:** Or it has learned patience.
-**VOLN:** Contact. Eleven o'clock.
+> **VORTHAN:** Gate is opening. Maintain formation.
+> **VOLN:** No breach damage. Defenses intact.
+> **TAEL:** Curious. Harridan's disappearance and yet the outer systems still answer authority.
+> **KHELDAN:** Then corruption has not yet consumed this place fully.
+> **KAEL:** Or it has learned patience.
+> **VOLN:** Contact. Eleven o'clock.
 
 *Targeting rune activation*
 
-**VORTHAN:** Hold.
-**TAEL:** Local military. Matte blue armor.
-**VOLN:** Perimeter troops.
-
-**KHELDAN:** Astra Militarum.
-**KAEL:** Shadow Sentinels.
+> **VORTHAN:** Hold.
+> **TAEL:** Local military. Matte blue armor.
+> **VOLN:** Perimeter troops.
+> **KHELDAN:** Astra Militarum.
+> **KAEL:** Shadow Sentinels.
 
 *3.2-second silence*
 
-**VORTHAN:** They are not our concern.
+> **VORTHAN:** They are not our concern.
 
 *Distant vox traffic – unidentified human voices*
 
-**VOLN:** Defensive positions only. Weapons disciplined.
-**TAEL:** They expected someone.
-**KHELDAN:** Or they expect death often enough to stop asking questions.
-**KAEL:** Their optics track us. No challenge.
-**VORTHAN:** Inquisitorial seals confirmed. We proceed.
+> **VOLN:** Defensive positions only. Weapons disciplined.
+> **TAEL:** They expected someone.
+> **KHELDAN:** Or they expect death often enough to stop asking questions.
+> **KAEL:** Their optics track us. No challenge.
+> **VORTHAN:** Inquisitorial seals confirmed. We proceed.
 
 *Footsteps – metal gantry*
 *Environmental pressure equalization*
 
-**TAEL:** Relay architecture appears operational. Remarkable for an abandoned station.
-**KHELDAN:** Abandoned things do not maintain watchfires.
-**VOLN:** Blackstar secured.
-**VORTHAN:** Good. We move to transit access.
-**KAEL:** And the Sentinels?
-**VORTHAN:** Leave them to their vigil.
+> **TAEL:** Relay architecture appears operational. Remarkable for an abandoned station.
+> **KHELDAN:** Abandoned things do not maintain watchfires.
+> **VOLN:** Blackstar secured.
+> **VORTHAN:** Good. We move to transit access.
+> **KAEL:** And the Sentinels?
+> **VORTHAN:** Leave them to their vigil.
 
 **[Vox static]**  
 **[Transcript ends]**

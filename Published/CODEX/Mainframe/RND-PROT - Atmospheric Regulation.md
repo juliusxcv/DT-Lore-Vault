@@ -3,7 +3,7 @@ cost: 10
 ---
 **ENGINEERING NOTICE**  
 **Origin:** Atmospheric Regulation Node  
-**Date:** 759.M41  
+
 **Distribution:** Maintenance Personnel / Manufactorum Staff
 
 > Temporary atmospheric venting scheduled for lower fabrication levels due to metal particulate concentration and plasma welding residue.  
