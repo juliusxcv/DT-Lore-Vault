@@ -94,12 +94,19 @@ Command Unit
 | --------------- | --- | --- | ------- |
 | Concrete Hammer | 4   | 5/6 | Rending |
 
+### Stats Flamer:
 
+| RC  | CC  | AP  | MV  | DEF | HP  |
+| --- | --- | --- | --- | --- | --- |
+| 5+  | 5+  | 3   | 5"  | 5+  | 10  |
 
+| Ranged          | ATK | DMG | WR                                                   |
+| --------------- | --- | --- | ---------------------------------------------------- |
+| Infernal Warden | 4   | 4/4 | Range 8", Saturate, Torrent 2, Engulfing, Incendiary |
 
-
-
-
+| Melee      | ATK | DMG | WR                      |
+| ---------- | --- | --- | ----------------------- |
+| Bone Blade | 3   | 3/5 | Rending, Command Strike |
 
 ### Abilities:
 - **Synaptic Control**: All Undead Legionnaires on the Board gain full abilities and may perform complex actions.

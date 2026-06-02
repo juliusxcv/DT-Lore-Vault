@@ -7,6 +7,7 @@
 > _“Old Maren saw one once. Said it was tall, thin, like a man made of smoke and glass._ _Said it shimmered like oil, and vanished when she turned her head._ _Said it sang to her—not with words, but with her bones.”_
 
 > _“We called them the Hollowkin. Because they never speak. And they never stay.”_
+> **Answer to Vex Spell Call into the Forest**
 
 
 ## **Xenoform Profile – Hollowkin**
