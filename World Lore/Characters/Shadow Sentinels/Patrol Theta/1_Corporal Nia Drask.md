@@ -54,6 +54,9 @@ ___
 **When asked about the Miners:**
 >Structures are unstable. Wood, prefab alloys, rot everywhere. If something’s living in there now, it’s not worth our time.
 
+**Where have you been?:**
+>"We saw your bird come down. Hard to miss — you don't get unscheduled Valkyrie landings out here, so half of us had weapons up before it touched the ground. _(Beat)_ I'll be honest. Wasn't sure if you were extraction or execution. Glad it turned out to be a third option."
+
 **When confronted about Darius Koln** 
 >"The Lieutenant didn't make it. I'm sorry. I know that's not what you wanted to hear."
 >

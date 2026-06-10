@@ -46,12 +46,15 @@ ___
    
 **Have you seen the Killteam?:** 
 >"We saw them enter the base, walked by right by us. Not a single word was said, like we didn't even exist."
-   
-**Closing Statement:** 
->"Stick close and keep your weapon ready. This place doesn’t play fair."
 
 **When asked about the Zombies/Undead Legionnaires:**
 >No rage. No pain. Just… movement. Like a work order they can’t disobey.
 
 **When asked about the Miners:**
 >If you want to know _why_ this place feels wrong… those houses remember more than we do.
+
+**Where have you been?:**
+>"Dead come up from the caves. We don't go near the caves. That's the whole equation. Whatever's down there — I don't need to understand it to know what stops it. Lumen burns clean. Problem is there's always another one."
+   
+**Closing Statement:** 
+>"Stick close and keep your weapon ready. This place doesn’t play fair."

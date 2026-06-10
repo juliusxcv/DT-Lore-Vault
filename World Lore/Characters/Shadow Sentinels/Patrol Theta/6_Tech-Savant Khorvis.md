@@ -47,11 +47,14 @@ ___
 **Have you seen the Killteam?** 
 >"The Deathwatch passed through swiftly. They had no interest in consultation, which I found... vexing. What secrets might they know? Alas, duty calls elsewhere."
 
-**Closing Statement:** 
->"If you encounter anomalous phenomena, report to me at once. Assuming you survive, of course."
-
 **When asked about the Zombies/Undead Legionnaires:**
 >They don’t bleed right. They don’t die right. Burn them or break them apart.
 
 **When asked about the Miners:**
 >Nothing dramatic. Sleeplessness. Arguments. People saying the light felt wrong. Admin chalked it up to long shifts and isolation.
+
+**Where have you been?:**
+>"The undead originate from the cave system beneath the crater floor. I mapped the emergence vectors over our first two weeks. Consistent trajectory, consistent spacing — almost rhythmic. Patterned output implies a directed source, not random animation. Whatever is generating them is doing so _deliberately_." _(Adjusts his optics)_ "The outer wall is clear of that phenomenon entirely. It is also, I have noted, clear of auspex interference. Out there, my instruments work. Inside the crater — closer to the caves — they do not. Make of that what you will."
+
+**Closing Statement:** 
+>"If you encounter anomalous phenomena, report to me at once. Assuming you survive, of course."

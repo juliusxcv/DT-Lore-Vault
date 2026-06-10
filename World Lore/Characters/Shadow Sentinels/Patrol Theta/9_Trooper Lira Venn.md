@@ -46,8 +46,6 @@ ___
 **Have you seen the Killteam?**
 >"Saw them arrive. They moved like shadows, silent and deadly. Didn’t even glance our way."
 
-**Closing Statement**
->"If you’re going in there, watch your back."
 
 **When asked about the Zombies/Undead Legionnaires:**
 >If you’re asking whether we can stop it …no. We can only hold the surface. Whatever’s happening started long before you arrived.
@@ -55,3 +53,8 @@ ___
 **When asked about the Miners:**
 >A lot of personal junk still inside—drawers, shelves, kids’ things. That usually means people thought they’d be back.
 
+**Where have you been?:**
+>"Outside the crater rim it's mostly clean. No dead, no contacts, no signs of whatever broke the facility open. You'd almost call it a standard posting — long hours, bad rations, too much silence. Except the silence has a texture there that doesn't feel natural. Hard to explain. Like the quiet is _occupied_. After a while you stop trusting your own eyes and start just trusting your rifle. Simpler that way."
+
+**Closing Statement**
+>"If you’re going in there, watch your back."

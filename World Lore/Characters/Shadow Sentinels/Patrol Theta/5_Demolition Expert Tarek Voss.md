@@ -46,12 +46,15 @@ ___
  
 **Have you seen the Killteam?:** 
 >"Yeah, they’re efficient, but they don’t appreciate the art of a good explosion. Shame, really."
- 
-**Closing Statement:** 
->"If you need something blown up, I’m your guy. Just don’t stand too close."
 
 **When asked about the Zombies/Undead Legionnaires:**
 >That’s what worries us. We’re not losing people up here, but every cycle there are more of them.
 
 **When asked about the Miners:**
 >By the time we arrived, the houses were already empty and falling apart. Command said they’d been cleared properly. That was good enough for us.
+
+**Where have you been?:**
+>"I saw someone on the wall three nights ago. Standing still, just... watching us. Wrong proportions — too tall. I didn't shoot. Couldn't explain why. Felt like shooting would have been the wrong move, which makes no sense when I say it out loud." _(Stares at nothing for a moment)_ "Drask saw it too. Different night. Different section of wall. Same description." _(Flatly)_ "We don't sleep well."
+ 
+**Closing Statement:** 
+>"If you need something blown up, I’m your guy. Just don’t stand too close."

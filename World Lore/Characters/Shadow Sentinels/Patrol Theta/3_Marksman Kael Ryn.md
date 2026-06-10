@@ -46,12 +46,15 @@ ___
    
 **Have you seen the Killteam?:** 
 >"Saw them once, through my scope. They moved like ghosts, precise and deadly. Didn’t need my help, that’s for sure."
- 
-**Closing Statement:** 
->"Keep your head down and your aim true. This place doesn’t forgive mistakes."
 
 **When asked about the Zombies/Undead Legionnaires:**
 >First time we saw them we froze. Second time we cursed. Third time we started counting ammo instead of corpses.
 
 **When asked about the Miners:**
 >We guard the base, not the past.
+
+**Where have you been?:**
+>"Long sightlines, minimal engagement, clean wind off the crater walls. By any tactical measure, a good posting. I've spent thirty-one days on overwatch and fired my weapon nine times." _(Pause)_ "You start watching the same stretch of empty terrain long enough, you see things move that aren't moving. I logged three sightings in my patrol record. Then I stopped logging them. Didn't want it on file."
+
+**Closing Statement:** 
+>"Keep your head down and your aim true. This place doesn’t forgive mistakes."
