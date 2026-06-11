@@ -17,23 +17,23 @@ cost: 250
 
 *Auspex notification tone*
 
-> **VOLN:** Movement.
+> **VOLN:** I sense Movement.
 
-> **VORTHAN:** Confirm.
+> **VORTHAN:** Confirmed.
 
-> **VOLN:** Facility auspex. Maintenance Corridor Nine.
+> **VOLN:** I linked up with the Facility auspex. It's coming from Maintenance Corridor Nine.
 
 > **TAEL:** Human?
 
 > **VOLN:** Unknown.
 
-> **KAEL:** We are being watched.
+> **KAEL:** We are being watched that much is sure.
 
 > **KHELDAN:** Then let it reveal itself.
 
 > **VORTHAN:** Negative. Voln?
 
-> **VOLN:** Accessing local defense network.
+> **VOLN:** I'm accessing the local defense network.
 
 *Noospheric handshake detected*  
 *Machine-code exchange
@@ -110,7 +110,7 @@ cost: 250
 
 > **VOLN:** No data recovered.
 
-> **KHELDAN:** Then we stop hiding behind dead machines.
+> **KHELDAN:** Then let us stop hiding behind dead machines Brothers.
 
 > **VORTHAN:** We investigate.
 

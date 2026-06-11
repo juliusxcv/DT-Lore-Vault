@@ -26,7 +26,7 @@ cost: 250
 
 > **VOLN:** Multiple heat signatures. Corridor breach ahead.
 
-> **TAEL:** Emperor preserve—
+> **TAEL:** Emperor preserve— finally 
 
 *Metal tearing*
 
@@ -44,7 +44,7 @@ cost: 250
 
 > **VOLN:** Necrotic tissue degradation. Heavy mutation.
 
-> **KHELDAN:** Abominations.
+> **KHELDAN:** Abominations. Mutants. Heretics.
 
 > **KAEL:** Wait.
 
@@ -99,9 +99,9 @@ cost: 250
 
 *Chainsword ignition*
 
-> **KHELDAN:** Mine.
+> **KHELDAN:** That one is Mine!
 
-> **VORTHAN:** Kheldan
+> **VORTHAN:** Kheldan!!!
 
 *Heavy impact*
 *Bone fracture*
@@ -111,7 +111,7 @@ cost: 250
 *Second impact*  
 *Wet rupture*
 
-> **KHELDAN:** _Despise the unclean._
+> **KHELDAN:** _Burn the unclean._
 
 *Cadaver vocalizations*  
 *Repeated blunt trauma*
@@ -122,22 +122,22 @@ cost: 250
 
 *Skull fracture*
 
-> **KHELDAN:** Suffer not the heretic
+> **KHELDAN:** _Suffer not the heretic_
 
 *Impact*
 
-> **KHELDAN:** nor the alien
+> **KHELDAN:** _nor the alien_
 
 *Wet tearing*
 *Impact – severe cranial trauma*
 
-> **KHELDAN:** nor the mutant to live.
+> **KHELDAN:** _nor the mutant to live._
 
 *Silence*
 
 *Heavy breathing – 
 
-> **TAEL:** Throne...
+> **TAEL:** (Slightly amused) Throne... you enjoyed this didnt you.
 
 > **VOLN:** Seven cadavers neutralized.
 
@@ -149,7 +149,7 @@ cost: 250
 
 > **TAEL:** Their skulls...
 
-> **KHELDAN:** They received the Emperor's final judgement.
+> **KHELDAN:** (Proudly) They received the Emperor's final judgement.
 
 > **VORTHAN:** Ammunition check. We continue.
 

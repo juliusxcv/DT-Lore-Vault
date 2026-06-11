@@ -17,7 +17,7 @@
 ### I. **Physical Description**
 
 - **Stature:** 2.2–2.6 meters tall
-- **Build:** Slender, long-limbed, digitigrade locomotion
+- **Build:** Slender, long-limbed
 - **Skin:** Black, shimmering surface with refractive properties; appears oily or glass-like under Luna Tenebris light
 - **Facial Features:** None visible; cranial structure smooth and featureless
 - **Camouflage:**

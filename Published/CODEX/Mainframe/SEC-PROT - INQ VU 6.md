@@ -21,25 +21,25 @@ cost: 250
 
 > **VOLN:** Corridor obstructed.
 
-> **KHELDAN:** Emperor preserve us.
+> **KHELDAN:** Emperor preserve us. What is this?
 
 *8.4-second silence*
 
 > **TAEL:** That is not decay.
 
-> **VORTHAN:**> Advance slowly.
+> **VORTHAN:** Advance slowly.
 
-*Footsteps – viscous surface contact*
+*Footsteps – viscous surface contact, wet and sticky floor*
 
 > **VOLN:** Organic mass across walls and flooring.
 
-> **TAEL:** Resin-like.
+> **TAEL:** It looks Resin-like.
 
 > **KAEL:** No.
 
 *Pause*
 
-> **KAEL:** Flesh.
+> **KAEL:** It is Flesh.
 
 *Audio distortion – wet mechanical sounds*
 
@@ -59,15 +59,15 @@ cost: 250
 
 > **VOLN:** Negative.
 
-> **TAEL:** Look at the walls.
+> **TAEL:** (Fascinated) Look at the walls.
 
 *3.1-second silence*
 
-> **TAEL:** Faces.
+> **TAEL:** There are Faces.
 
 *Wet movement detected*
 
-> **VOLN:** Confirmed.
+> **VOLN:** Confirmed. I can see them too.
 
 > **TAEL:** Emperor...
 
@@ -79,7 +79,7 @@ cost: 250
 
 > **VOLN:** Ocular response.
 
-> **KAEL:** They follow movement.
+> **KAEL:** They follow our movement.
 
 *Recorded breathing – elevated*
 
