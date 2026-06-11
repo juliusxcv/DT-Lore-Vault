@@ -1,5 +1,5 @@
 
-🌲 Flora of Luna Tenebris
+Flora of Luna Tenebris
 Environmental Classification: Temperate Twilight Biome  
 Clearance Level: 6 – Non-Hazardous Botanical Survey
 
