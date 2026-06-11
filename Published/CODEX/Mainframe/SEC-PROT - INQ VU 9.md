@@ -34,7 +34,7 @@ cost: 250
 
 > **VOLN:** Confirmed.
 
-> **TAEL:** Adamantium reinforcement.
+> **TAEL:** *(Knocks on Wall)* Adamantium reinforcement.
 
 > **KAEL:** Defensive emplacements.
 
@@ -131,8 +131,10 @@ cost: 250
 *Severe signal corruption*
 
 > **VOLN:** Sergeant—
+> There is something large approaching
 
 *Telemetry rupture*  
+Rumbling Footsteps
 *Vox distortion*  
 
 **UNRECOVERABLE DATA LOSS**

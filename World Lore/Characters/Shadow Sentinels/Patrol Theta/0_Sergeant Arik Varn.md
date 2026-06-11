@@ -24,13 +24,14 @@
 When attacking from cover or concealment, the Shadow Sentinels gain bonuses to hit and damage. +1 to DMG
 
 **Adaptive Camouflage**
-If the operative has not moved, the adaptive cloak can be activated. When activated saving throws are 3+
+IF the operative has not moved, the adaptive cloak can be activated. 
+When activated saving throws are 3+
 
 **Void-Hardened Discipline**
-They are immune to fear effects and receive bonuses to resist psychic attacks and mental corruption.
+They are immune to fear effects and receive bonuses to resist psychic attacks and mental corruption. -1 DEF on Psychic Attacks
 
 **Coordinated Fire Protocol**
-By focusing fire on a single target, the Shadow Sentinels can increase their collective accuracy and damage. When 3 or more Sentinels shoot the same target the consequent Sentinel get +1 ATK for Ranged Attacks.
+IF 3 or more Sentinels shoot the same target the consequent Sentinel gets +1 ATK for Ranged Attacks.
 
 ___
 ### Interactions / Dialogue Options
@@ -52,6 +53,9 @@ ___
 
 **When asked about the Zombies/Undead Legionnaires:**
 >"Lab techs, data-adepts, maintenance crews from the lower levels. Same uniforms. Same faces. Whatever’s animating them isn’t interested in who they used to be."
+
+**Where have you been?:**
+>"We run the outer rim. Crater wall, west to east, back again. Keeps us away from whatever's coming up through the basin floor. Out there it's quiet — too quiet for a combat posting, which after a while stops feeling like relief and starts feeling like a warning. The dead don't come from the walls. They come from inside the crater. From the caves. So we watch the perimeter, and we watch the gate, and we wait for something to change."
 
 **When confronted about Darius Koln** 
 >"The Lieutenant is gone. KIA during the incident. That's what the log says and that's what I'll tell anyone who asks."

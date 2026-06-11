@@ -46,11 +46,14 @@ ___
  **Have you seen the Killteam?:** 
 > "Yeah, they were... incredible. Like something out of a story. I wish I could have seen them fight."
    
- **Closing Statement:** 
-> "Stay safe out there. This place is dangerous, even for the best of us."
-
 **When asked about the Zombies/Undead Legionnaires:**
 >Doors open for them. Security systems hesitate. The base remembers them—even if they don’t remember themselves. Some still wear access tags.
 
 **When asked about the Miners:**
 >Honestly, we avoided them. Empty civilian spaces feel… different. Too quiet. The base at least makes sense—orders, routines, enemies.
+
+**Where have you been?:**
+>"The outer wall is where the strange things happen. Not the dead — those come from the caves, everyone knows that. But on the wall patrol... sometimes you hear something. Like someone saying your name, really quietly. I asked the others and they all said I was imagining it." _(Beat)_ "Then Voss said he heard it too. And Veylan. And I realized nobody had been honest with each other about it because nobody wanted to be the first one to say so."
+
+ **Closing Statement:** 
+> "Stay safe out there. This place is dangerous, even for the best of us."

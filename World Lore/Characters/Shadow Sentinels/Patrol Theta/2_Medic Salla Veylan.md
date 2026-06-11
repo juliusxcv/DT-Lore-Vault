@@ -54,6 +54,9 @@ ___
 **When asked about the Zombies/Undead Legionnaires:**
 >You can outwalk them if you keep your head. You can outshoot them if you don’t panic. Just don’t let them pile up—three or four together, and they get dangerous.
 
+**Where have you been?:**
+>"The light here does something to you after long enough. The trees don't move. You start filling in the silence with things that aren't there — shapes between the pines, sounds just below hearing. I've been calling it sensory drift in my notes. I'm not sure that's what it is anymore. Three of us have described the same figure. Same height, same posture. None of us spoke to each other about it until last week." _(Quietly)_ "I don't know if that's more comforting or less."
+
 **When asked about the Miners:**
 >We were told not to inventory the houses. Official reason: contamination risk. Unofficial? No one wanted to read what civilians wrote when things started going wrong.
 >

@@ -21,25 +21,25 @@ cost: 250
 
 > **VOLN:**  Corridor designation updated.
 
-> **VORTHAN:**  Report.
+> **VORTHAN:**  Report!
 
 > **VOLN:**  Section Four. Sublevel two-three-one.
 
-> **TAEL:** Still descending.
+> **TAEL:** We are still descending.
 
-> **KHELDAN:** This place is a buried kingdom.
+> **KHELDAN:** Indeed. This place is a buried kingdom.
 
-> **TAEL:** We have crossed hundreds of sectors already.
+> **TAEL:** So far we must have crossed hundreds of sectors already.
 
 > **VOLN:** And still no collapse.
 
-> **KAEL:** No abandonment either.
+> **KAEL:** No abandonment either. Everything looks intact, as if they just vanished.
 
 *Footsteps – prolonged corridor movement*
 
-> **TAEL:** Lighting maintained. Atmosphere stable. Transit systems functional.
+> **TAEL:** Lighting maintained. Atmosphere stable. Transit systems functional. 
 
-> **KHELDAN:** Yet empty.
+> **KHELDAN:** Yet empty. Whatever happened here it was without force.
 
 > **VOLN:** No labor crews. No habitation movement.
 
@@ -74,45 +74,44 @@ cost: 250
 
 > **KHELDAN:** By the Throne...
 
-> **TAEL:** Vivisection theatre.
+> **TAEL:** We've entered the Vivisection theatre.
 
 > **VOLN:** Observation galleries intact.
 
-> **KAEL:** Holding cells.
+> **KAEL:** Holding cells...
 
 *Heavy Footsteps entering chamber*
 
 > **TAEL:** Emperor preserve us...
 
-> **VOLN:** Specimen containment.
+> **VOLN:** This looks like Specimen containment.
 
-> **TAEL:** Local fauna.
+> **TAEL:** I recognize some Local fauna.
 
 > **KHELDAN:** No longer.
 
 *Ambient biological sounds*
 
-> **TAEL:** Mutation.
+> **TAEL:** Mutants.
 
 > **VOLN:** Multiple deceased specimens.
 
-> **KAEL:** Large-scale experimentation.
+> **KAEL:** Large-scale experimentation took place here.
 
 *Short silence*
 
 > **TAEL:** The creatures—
-
-> **TAEL:** Look at them.
+> **TAEL:** Look at them. Abominations,
 
 > **VOLN:** Excessive tissue proliferation.
 
 > **TAEL:** Native forms distorted beyond natural structure.
 
-> **KHELDAN:** Abominations bred in cages.
+> **KHELDAN:** Mutants bred in cages. Lets burn them.
 
 *Wet movement – distant*
 
-> **VOLN:** Containment failure signs widespread.
+> **VOLN:** Widespread Containment failure signs.
 
 > **TAEL:** The mutations match the corridor growth.
 
@@ -121,8 +120,7 @@ cost: 250
 *Pause*
 
 > **TAEL:** No.
-
-> **TAEL:** Worse.
+> **TAEL:** It's Worse.
 
 *Footsteps*
 
@@ -145,8 +143,7 @@ cost: 250
 *Low environmental hum*
 
 > **TAEL:** The mutations—
-
-> **TAEL:**  —were cultivated.
+> **TAEL:**  — were cultivated.
 
 > **VORTHAN:** Record everything.
 

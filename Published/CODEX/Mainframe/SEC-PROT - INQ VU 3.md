@@ -48,7 +48,7 @@ cost: 250
 >  _Escort authorization absent._  
 >  _Identify—_
 
-> **KHELDAN:** Enough.
+> **KHELDAN:** Enough!!
 
 *Weapon discharge – single bolt round*  
 *Servo-skull destruction*  
@@ -58,9 +58,9 @@ cost: 250
 
 > **KHELDAN:** It questioned authority already given.
 
-> **VOLN:** Verification unit destroyed.
+> **VOLN:** You destroyed the Verification unit.
 
-> **KAEL:** Efficient.
+> **KAEL:** (Sarcastic) Efficient.
 
 > **VORTHAN:** Maintain discipline!
 

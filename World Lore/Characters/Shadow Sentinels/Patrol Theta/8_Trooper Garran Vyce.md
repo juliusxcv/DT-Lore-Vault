@@ -46,11 +46,14 @@ ___
 **Have you seen the Killteam?** 
 >"The Deathwatch? Yeah, I saw them. Big, black armor, swords and bolters blazing. They made it look easy, while we’re stuck here in the mud. Guess that’s what being a legend gets you."
 
-**Closing Statement:** 
->"If you need a guide, I know every inch of this perimeter. Just don’t expect me to hold your hand."
-
 **When asked about the Zombies/Undead Legionnaires:**
 >Plagues spread sideways. This spreads _up_. Something down there is producing them.
 
 **When asked about the Miners:**
 >If you’re trying to understand why they left, the houses might help.
+
+**Where have you been?:**
+>"Heard your Valkyrie before we saw it. Everyone scrambled." _(Grits teeth)_ "Thirty-one days, not a single resupply, not a single signal back from Command, and then you just... land. No warning. You have any idea what it's like sitting out here thinking you've been forgotten?" _(Doesn't wait for an answer)_ "Forget it. You're here. That's what matters."
+
+**Closing Statement:** 
+>"If you need a guide, I know every inch of this perimeter. Just don’t expect me to hold your hand."
