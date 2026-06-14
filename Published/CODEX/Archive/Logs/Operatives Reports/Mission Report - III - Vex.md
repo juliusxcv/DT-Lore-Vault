@@ -1,34 +1,38 @@
 Author: Vexilia Thornkell
 
-I was scratched! Mask, have you forsaken me? No… no. Your lightning came when I called for it.
-I found things… some useless tools, but also strangely mutated biological material which caught my attention. Is it the influence of the warp I can feel around them? I cannot tell… I took them with me. I will consult the Mask on them in due time.
-More zombies were appearing constantly. My lightning will cleanse them.
+My lightning felt weak today, but the Beautiful One seemed blessed. Her dance of death is impressive. Enchanting even.
 
-Then, the lady in the sky’s vessel answered. Finally. Everyone is so slow.
-Even the beautiful, frightening music I heard earlier does not want to show its face. I long to see it. Is it the shadows the Valeth girl was talking about?
+My own dance took an unexpected turn to a partner number. I ran with it and became two for a little while. The feeling was incredible. It was as if, looking the Mask straight in the eyes, its flesh merged back into me. The sensation was exhilarating, but disorienting.
 
-The Angry One entered the gate, its doors now open. The horde of entertainment has ceased. But I see violence in our near future. I am looking forward to it.
+The lightshow I invoked had flooded my veins. I could feel it coursing through me, radiating outward. I could feel the Mask, the thrill—the pure force.
 
-I found a report by someone called Hellbrun… ancient, but it spoke to me. She writes that the moon is singing. That is my experience as well. Although I am not quite sure it is the moon itself that is singing, and not some other entity... 
+Slowly, only slowly, it ebbed away, but not before a strange hiccup in my place in time. Only an instant, but disorienting nonetheless. I needed to quell the tides of the warp, for it awakened the frightened child within me and I stole protection. Apart from the Angry One, the others did not seem to care. 
 
-The others secured the Vox room in the meantime. The lady in the sky confirmed my visions of violence. They are coming.
-The silence had become thrilling. I could feel the shadows move in the woods; the anticipation was exhilarating.
+Do not be concerned, for the Emperor's light guided me away from the temptations of the warp. I went to the cogitators to find out more, as you demanded, oh Lady in the Sky. Useless. Again.
 
-Base maintenance was taking its time. It is tedious work, but at least there is progress. Even I had to contribute; my disdain for machines was confirmed once more. Come, come, shadows in the dark. Liberate me.
+I decided to head to the roof and watch for the origin of the music. I looked through the eyes of the Mask, listened through its ears, and the shadows answered:
 
-Then, a strange sensation overcame me. As if some sort of rift—or memory—was opened. I felt the Dumb and the Brave One disappear… or the brave and the dumb. They are much alike. It took only a moment, and they reappeared at the mining shaft. Grossly wounded, and the Mask laughed. I suppose we will try to keep them alive.
+“We called them the Hollow Kin, because they never spoke and never stayed.”
 
-We continued trying to get the blasted flying skulls to supply us. Tedious work—but then the music from the forest sang once again. The wait was over.
-Disappointingly, only more zombies and some soldiers appeared—doubtlessly decayed and vile as well. But not the origin of the music.
+Very curious. The Mask merely laughed when I asked it for guidance.
 
-As usual, it was left to me to kill the first one. A glorious streak of lightning—and the Mask applauded me by sending dancing symbols.
-Surprisingly resilient, they are. We are lucky they focused their fire on one of the generators.
-The Dumb and the Brave One were actually useful for once, doing their part in outstaging the enemy.
-The Angry One went after easy prey. How uninspired.
-The Mechanical One was efficient. I begin to not dislike him as much. There is a certain… elegance to his demeanour.
-The Beautiful One seemed uninterested in the battle at first, but then she charged into the fray. Admirable.
-And once again, the Mask blessed me, and foes exited the stage in droves.
-The battle rages on.
+I tried the cogitators once again. My eyes widened as - with the Dumb One’s help of all people - the blasted machine spirit finally revealed something interesting: Some doomed soldiers before us encountered something not far from here.
+
+The Silent Watchers.
+
+Are they the same as the Hollow Kin? The shadows the settlers had seen? The origin of the music?
+
+Maybe. The Beautiful One suggested it might be Eldar.
+
+I know them only from stories in my childhood. Although something about the descriptions in the reports reminded me of the play.
+
+Tall. Slender. Movement like smoke. I would love to see them.
+
+Either way, this must be the kind of report you spoke of. I am not the first to witness these phenomena, but I will be the first to unravel them.
+
+A strange, eerie quiet overcame the valley after the battle. I found it calming after today's uncontrolled storm.
+
+The Brave and the Mechanical One unearthed more fragments. One of them was particularly interesting—a transcript concerning the Angels' arrival here. They proceeded into the place of knowledge without hesitation. At that point there were still soldiers here. I suppose we have put some of them out of their misery today. Corruption must have taken hold of them very quickly. We'd be wise to avoid their fate.
 
 ---
 
