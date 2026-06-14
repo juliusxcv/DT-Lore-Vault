@@ -25,7 +25,7 @@ A child asked him if he was an angel.
 
 He paused longer than necessary, then answered:
 
-> “An angel of death.”
+> “They called me an angel of death once.”
 
 The child laughed, thinking it a joke.
 

@@ -18,6 +18,11 @@
 | Melee        | ATK | DMG | WR                 |
 | ------------ | --- | --- | ------------------ |
 | Constriction | 4   | 3/5 | Immobilize on Crit |
+### Abilities:
+- **Poison**: Target suffers -1 to RC next turn.
+- **Immobilize**: On critical hit, target must pass CC Roll or lose 1" movement next turn.
+- **Slitherform**: Can climb vertical surfaces without penalty.
+- **Type**: Terrain-bypassing ambusher
 
 | Loot Table                  |
 | --------------------------- |
@@ -32,10 +37,6 @@
 | Acidic Bile Sac             |
 | Shard-Tainted Organ Cluster |
 | Universal Accessory         |
-### Abilities:
-- **Poison**: Target suffers -1 to RC next turn.
-- **Immobilize**: On critical hit, target must pass CC Roll or lose 1" movement next turn.
-- **Slitherform**: Can climb vertical surfaces without penalty.
-- **Type**: Terrain-bypassing ambusher
+
 
 https://bestiarumgames.com/products/fleshspoils-stl-man-eaters?pr_prod_strat=e5_desc&pr_rec_id=e5ccebc80&pr_rec_pid=9772373508402&pr_ref_pid=9771082023218&pr_seq=uniform

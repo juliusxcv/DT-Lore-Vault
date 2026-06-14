@@ -19,7 +19,7 @@ Ground Floor
 			- [[The Helbrun Family]]
 			- [[The Renn Collective]]
 	- Chair
-		- In a secret compartment: [[Green Angel]]
+		- In a secret compartment: [[The Green Angel]]
 		  Opened with a Code provided by the [[Chalk marks]]
 	- Scrolls (3)
 		- [[Edras Helbrun - Field Report]]
