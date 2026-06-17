@@ -84,7 +84,7 @@ cost: 120
 > 
 > Do you think it could be HELIOS?
 > 
-> My mentor says the old Titan Legions never come this far into the sector, but Tenebris receives stranger cargo than most forge shrines.
+> My mentor says the old Titan Legions never come this far into the sector, but Tenebris receives stranger cargo than even most forge shrines.
 
 ---
 
