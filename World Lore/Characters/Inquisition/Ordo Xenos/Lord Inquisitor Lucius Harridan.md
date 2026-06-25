@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Inquisition
+status: complete
+aliases: []
+---
 Lucius Harridan, a name whispered with equal parts reverence and fear within the halls of the Ordo Xenos, began his journey as a promising acolyte with an unyielding passion for the Imperium's survival. Born on the industrial world of Calyx Prime, Harridan grew up amidst the smog-choked factories and relentless toil of the hive cities. His early years were marked by a fierce intellect and a natural aptitude for uncovering hidden truths, traits that caught the attention of an Inquisitor passing through the sector.
 
 Under the tutelage of his first mentor, Harridan quickly rose through the ranks, proving himself adept at xenos lore, interrogation, and combat. His methods, even in these early days, were unconventional—he often relied on unsanctioned techniques, such as employing xenos artifacts to gain insight into their creators or using forbidden psyker abilities to extract information. While these practices raised eyebrows among his peers, they also yielded undeniable results, earning him a reputation as a maverick within the Inquisition.

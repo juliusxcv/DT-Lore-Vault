@@ -1,9 +1,17 @@
+---
+type: in-world-doc
+visibility: gm
+faction: Dark Mechanicus
+status: complete
+aliases: []
+---
 ## **Inquisitorial Intelligence Briefing – Cult Designate: “The Body”**
 
 **Document Code:** IX-XN/CULT-DS-998.91-B 
 **Classification:** Omega-Level Threat – Active Subsurface Cell 
 **Filed By:** Interrogator-Magos Virell, Ordo Xenos 
-**Verified By:** Lord Inquisitor Seraphina Valeria **Status:** Escalated – Containment Incomplete
+**Verified By:** Lord Inquisitor Seraphina Valeria 
+**Status:** Escalated – Containment Incomplete
 
 ### I. **Cult Overview**
 

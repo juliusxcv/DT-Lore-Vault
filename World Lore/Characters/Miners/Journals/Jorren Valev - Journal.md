@@ -1,3 +1,10 @@
+---
+type: in-world-doc
+visibility: gm
+faction: Imperial Civilians
+status: complete
+---
+
 
 ---
 ### Maintenance

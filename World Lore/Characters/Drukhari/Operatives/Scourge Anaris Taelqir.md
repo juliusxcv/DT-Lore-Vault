@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Drukhari
+status: stub
+aliases: []
+---
 Drukhari / [[Shards of Venom]]
 
 **Role:** Aerial reconnaissance and sniper specialist, providing cover and mobility.

@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Drukhari
+status: stub
+aliases: []
+---
 Drukhari / [[Shards of Venom]]
 
 **Role:** Leader of the beast tamers, responsible for capturing and subjugating the wildlife.

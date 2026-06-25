@@ -1,3 +1,10 @@
+---
+type: item
+visibility: gm
+faction: Drukhari
+status: stub
+aliases: []
+---
 | Ranged                     | ATK | DMG | WR                                       |
 | -------------------------- | --- | --- | ---------------------------------------- |
 | Splinter Cannon (focused)  | 5   | 3/5 | Heavy (Dash only), Lethal 5+             |

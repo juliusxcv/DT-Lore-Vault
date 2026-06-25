@@ -1,3 +1,10 @@
+---
+type: faction
+visibility: gm
+faction: Imperial Civilians
+status: complete
+aliases: []
+---
 **Occupied:** [[House III - Edrik Family]]
 **Role:** Power Distribution
 

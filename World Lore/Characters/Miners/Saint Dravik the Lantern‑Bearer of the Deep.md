@@ -1,3 +1,11 @@
+---
+type: character
+visibility: gm
+faction: Imperial Civilians
+status: complete
+aliases:
+  - The Lantern-Bearer
+---
 ### **Honorifics**
 - _The Lantern-Bearer_
 - _Shield of the Forgotten_

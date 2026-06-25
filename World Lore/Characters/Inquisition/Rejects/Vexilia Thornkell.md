@@ -1,3 +1,11 @@
+---
+type: character
+visibility: gm
+faction: Inquisition
+status: complete
+aliases:
+  - PSY-VEX
+---
 Arbites Intelligence Report – Subject: PSY‑VEX  
 Recipient: [[Lord Inquisitor Seraphina Valeria]]  
 Origin: Adeptus Arbites, Erebus‑5 Enforcement Division  

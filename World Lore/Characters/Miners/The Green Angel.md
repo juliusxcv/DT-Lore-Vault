@@ -1,3 +1,12 @@
+---
+type: in-world-doc
+visibility: gm
+faction: Dark Angels
+status: complete
+aliases:
+  - The Angel
+  - angel of death
+---
 
 ## Journal of Ilia Valev, House IV
 

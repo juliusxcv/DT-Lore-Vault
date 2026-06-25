@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Shadow Sentinels
+status: complete
+aliases: []
+---
 **Personality:** Gruff and imposing, with a deep loyalty to his comrades and a love for heavy firepower.
 
 

@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Shadow Sentinels
+status: complete
+aliases: []
+---
 
 **Personality:** Obsessive and eccentric, focused on the arcane aspects of Mechanicus tech.
 

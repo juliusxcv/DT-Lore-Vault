@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Drukhari
+status: stub
+aliases: []
+---
 Drukhari / [[Shards of Venom]]
 
 **Role:** Ally from the Cult of the Razorpetal, brought in to ensure dominance in melee combat and provide terrifying displays for the arenas.

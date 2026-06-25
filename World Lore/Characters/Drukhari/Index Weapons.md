@@ -1,3 +1,10 @@
+---
+type: index
+visibility: gm
+faction: Drukhari
+status: complete
+aliases: []
+---
 **Ranged**
 [[Blast Pistol]]
 [[Splinter Cannon]]

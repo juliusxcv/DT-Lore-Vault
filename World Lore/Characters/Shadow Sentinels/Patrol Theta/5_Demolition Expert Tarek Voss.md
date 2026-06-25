@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Shadow Sentinels
+status: complete
+aliases: []
+---
 **Personality:** Bold and reckless, with a penchant for explosive solutions to every problem.
 
 

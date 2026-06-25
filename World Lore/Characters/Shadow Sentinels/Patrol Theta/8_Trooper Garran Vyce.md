@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Shadow Sentinels
+status: complete
+aliases: []
+---
 **Personality:** Hot-headed and frustrated, eager to prove himself despite the dire circumstances.
 
 

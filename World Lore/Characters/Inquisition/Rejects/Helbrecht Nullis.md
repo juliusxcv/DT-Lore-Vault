@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Inquisition
+status: complete
+aliases: []
+---
 
 **SUBJECT PROFILE**
 

@@ -1,3 +1,10 @@
+---
+type: faction
+visibility: gm
+faction: Imperial Civilians
+status: complete
+aliases: []
+---
 **Occupied:** [[House I - Helbrun Family]]
 **Role:** Surveyors
 

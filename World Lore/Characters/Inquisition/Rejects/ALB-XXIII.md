@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Inquisition
+status: complete
+aliases: []
+---
 The Adventures of ALB-XXIII: The Rogue Skitarii
 
 ALB-XXIII, a Skitarii soldier from the secretive Forge World of Selvanus Binary in the Askelon Sector, served High Fabricator Dinuum for roughly 64,000 hours. Selvanus, an isolationist forge world renowned for advanced weaponry, implants, and servitors, deployed ALB-XXIII on covert missions. Skilled in reconnaissance, ambush tactics, and marksmanship, he protected archeotech-hunting expeditions across planets and asteroids, battling Eldar, Tau, Orks, and the Kin.

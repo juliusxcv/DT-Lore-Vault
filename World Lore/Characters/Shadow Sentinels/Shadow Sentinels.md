@@ -1,3 +1,10 @@
+---
+type: faction
+visibility: gm
+faction: Shadow Sentinels
+status: complete
+aliases: []
+---
 **Shadow Sentinel Imperial Guard Regiment**
 
 

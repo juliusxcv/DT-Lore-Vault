@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Drukhari
+status: stub
+aliases: []
+---
 Drukhari / [[Shards of Venom]]
 
 **Role:** Master fleshcrafter and overseer of any biological assets the party captures.

@@ -1,3 +1,10 @@
+---
+type: tool
+visibility: gm
+faction: Shadow Sentinels
+status: complete
+aliases: []
+---
 
 
 **Player: [[Slabs]]**

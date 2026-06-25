@@ -1,3 +1,11 @@
+---
+type: character
+visibility: gm
+faction: Inquisition
+status: complete
+aliases:
+  - OGR-271
+---
 Arbites Intelligence Report – Subject: OGR‑271  
 Recipient: [[Lord Inquisitor Seraphina Valeria]]
 Origin: Adeptus Arbites, Hive World Caldris‑8 Enforcement Division  

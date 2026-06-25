@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Shadow Sentinels
+status: complete
+aliases: []
+---
 **Personality:** Precise and calculating, with a quiet confidence that borders on arrogance.
 
 

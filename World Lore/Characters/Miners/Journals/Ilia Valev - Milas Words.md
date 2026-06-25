@@ -1,3 +1,10 @@
+---
+type: in-world-doc
+visibility: gm
+faction: Imperial Civilians
+status: complete
+aliases: []
+---
 ### From the Journal of Ilia Valev
 
 _(Addendum, separate pages tucked into the back of the ledger)_

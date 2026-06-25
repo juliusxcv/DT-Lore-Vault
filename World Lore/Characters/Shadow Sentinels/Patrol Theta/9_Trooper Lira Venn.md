@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Shadow Sentinels
+status: complete
+aliases: []
+---
 **Personality:** Resourceful and adaptable, with a knack for finding solutions in dire situations.
 
 

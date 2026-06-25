@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Tenebris Personnel
+status: stub
+aliases: []
+---
 Scientist
 
 This man was a high ranking egghead of the genetic laboratories from the levels underground. After the lockdown, caused by a drukhari incursion, he managed to get topside only to run into the arms of the rest of the raiding party standing guard.

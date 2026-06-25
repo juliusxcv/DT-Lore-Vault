@@ -1,3 +1,10 @@
+---
+type: faction
+visibility: gm
+faction: Deathwatch
+status: complete
+aliases: []
+---
 [[Lord Inquisitor Seraphina Valeria]] requested a Killteam to investigate [[Research Facility Tenebris]] for Traces of [[Lord Inquisitor Lucius Harridan]] and the Artifact he supposedly was chasing. Velatum Umbra was assigned for this Mission.
 
 > Watch Commander Vorth,

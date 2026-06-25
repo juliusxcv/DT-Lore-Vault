@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Inquisition
+status: complete
+aliases: []
+---
 Born into a noble family on the hive world of Triach IV, Seraphina Valeria was destined for greatness from the moment of her birth. Her family, known for their unwavering loyalty to the Imperium and their contributions to the Astra Militarum, instilled in her a deep sense of duty and a fierce determination to protect humanity. From a young age, Seraphina exhibited a keen intellect, an insatiable curiosity, and an unyielding resolve—traits that would serve her well in the dark and dangerous future that awaited her.
 
 As a child, Seraphina was captivated by tales of heroism and valor, particularly those involving the mysterious and enigmatic Inquisition. She devoured every scrap of knowledge she could find about the Ordo Xenos, the shadowy order dedicated to rooting out and exterminating the alien threat that lurked in the far corners of the galaxy. Her fascination soon turned into a calling, and at the age of fifteen, she petitioned to join the Inquisition.

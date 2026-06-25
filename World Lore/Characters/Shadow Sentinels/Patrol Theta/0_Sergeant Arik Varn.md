@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Shadow Sentinels
+status: complete
+aliases: []
+---
 **Position**: Leader of Patrol Theta
 **Personality:** Stoic and battle-hardened, with a strong sense of duty despite exhaustion.
 

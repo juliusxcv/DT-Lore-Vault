@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Drukhari
+status: complete
+aliases: []
+---
 Drukhari / [[Shards of Venom]]
 
 #NPC #ENEMY 

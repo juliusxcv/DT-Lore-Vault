@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Shadow Sentinels
+status: complete
+aliases: []
+---
 ### NPC Profile: Lieutenant Darius Koln
 
 **Role:** Commanding Officer, Topside Patrol Theta, Shadow Sentinels **Status:** Deceased (classified)

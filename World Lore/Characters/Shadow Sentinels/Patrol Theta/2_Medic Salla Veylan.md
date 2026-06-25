@@ -1,3 +1,10 @@
+---
+type: character
+visibility: gm
+faction: Shadow Sentinels
+status: complete
+aliases: []
+---
 **Personality:** Compassionate and weary, deeply affected by the toll on her comrades.
 
 | RC  | CC  | AP  | MV  | DEF | HP  |
