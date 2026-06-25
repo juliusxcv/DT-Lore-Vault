@@ -1,3 +1,9 @@
+---
+type: item
+visibility: gm
+status: stub
+aliases: []
+---
 The Landing Craft of [[Killteam Velatum Umbra]]
 
 **Points of Interest:**

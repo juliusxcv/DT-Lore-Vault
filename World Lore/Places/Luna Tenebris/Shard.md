@@ -1,3 +1,10 @@
+---
+type: in-world-doc
+visibility: gm
+status: complete
+aliases:
+  - Shard of the Dark Soul
+---
 ## **Inquisitorial Report – Artifact Designate: “Shard of the Dark Soul”**
 
 **Document Code:** IX-XN/DS-998.77-HK **Classification:** Omega-Level Containment – Eyes Only **Filed By:** Inquisitor Harridan, Ordo Xenos **Status:** Active – Quarantined

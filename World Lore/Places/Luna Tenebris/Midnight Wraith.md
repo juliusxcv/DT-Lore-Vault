@@ -1,3 +1,9 @@
+---
+type: item
+visibility: gm
+status: complete
+aliases: []
+---
 ## **Inquisitorial Report – Space Hulk Designate: “Midnight Wraith”**
 
 **Document Code:** IX-XN/SH-998.88-VX 

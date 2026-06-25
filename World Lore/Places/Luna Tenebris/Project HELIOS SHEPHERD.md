@@ -1,3 +1,9 @@
+---
+type: in-world-doc
+visibility: gm
+status: stub
+aliases: []
+---
 Experimental Titan R&D beneath Tenebris
 Classified Warhound Titans
 

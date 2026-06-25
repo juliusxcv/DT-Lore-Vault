@@ -1,3 +1,9 @@
+---
+type: location
+visibility: gm
+status: stub
+aliases: []
+---
 **Points of Interest:**
 Ground Floor
 - Statue of [[Saint Dravik the Lantern‑Bearer of the Deep]]

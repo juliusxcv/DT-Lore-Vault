@@ -1,3 +1,9 @@
+---
+type: location
+visibility: gm
+status: stub
+aliases: []
+---
 **Former Inhabitants**: [[The Valev Family]]
 **Points of Interest:**
 Ground Floor

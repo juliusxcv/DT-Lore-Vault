@@ -1,3 +1,9 @@
+---
+type: location
+visibility: gm
+status: complete
+aliases: []
+---
 Orbiting the massive war-world _[[Bellum Eternum Tertius]]_, Luna Tenebris was an anomaly of grace. While its parent planet roared with conflict and industry, the moon remained untouched—its forests dense and ancient, its skies locked in a perpetual twilight that bathed the landscape in soft blues and silvers.
 
 The atmosphere is breathable, the gravity stable, and the climate temperate. Pines stretched endlessly across the surface, their trunks straight and proud, their needles whispering in winds that never howled. Wildlife is sparse but gentle—small mammals, quiet birds, and bioluminescent insects that glowed like stars in the underbrush.

@@ -1,3 +1,9 @@
+---
+type: location
+visibility: gm
+status: complete
+aliases: []
+---
 The third Planet of the System [[Bellum Eternum]]
 
 ## **Planetary History File – Bellum Eternum Tertius**

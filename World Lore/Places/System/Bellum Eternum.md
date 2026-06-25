@@ -1,3 +1,10 @@
+---
+type: location
+visibility: gm
+status: complete
+aliases:
+  - Bellum Eternum Prime
+---
 ## **Planetary Governance Report – Bellum Eternum Prime**
 
 **Imperial Archive Reference:** IX-GOV/BT1-PRIM/002.7 

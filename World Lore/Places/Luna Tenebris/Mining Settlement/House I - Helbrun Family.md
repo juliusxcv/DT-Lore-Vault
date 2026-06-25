@@ -1,3 +1,9 @@
+---
+type: location
+visibility: gm
+status: stub
+aliases: []
+---
 **Former Inhabitants**: [[The Helbrun Family]]
 **Points of Interest:**
 Ground Floor

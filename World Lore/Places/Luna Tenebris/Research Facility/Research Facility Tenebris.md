@@ -1,3 +1,10 @@
+---
+type: location
+visibility: gm
+status: complete
+aliases:
+  - Tenebris Prime
+---
 ![[Arcology.jpg]]
 
 Constructed in 731.M41 by the Adeptus Mechanicus under the directive of _Archmagos Virellian_, Tenebris Prime was designed as a remote research facility for high-risk biological experimentation. Its location—on the quiet moon of [[Luna Tenebris]]—was chosen for three strategic reasons:

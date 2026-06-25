@@ -1,3 +1,10 @@
+---
+type: location
+visibility: gm
+status: complete
+aliases:
+  - Ultima Segmentum
+---
 The **Segmentum Ultima**, also known as the **Ultima Segmentum**, is the [segmentum](https://warhammer40k.fandom.com/wiki/Segmentum "Segmentum") of [Imperial](https://warhammer40k.fandom.com/wiki/Imperial "Imperial") space to the galactic east of [Terra](https://warhammer40k.fandom.com/wiki/Terra "Terra"). The Ultima Segmentum contains the uninhabitable core of the [Milky Way Galaxy](https://warhammer40k.fandom.com/wiki/Milky_Way_Galaxy "Milky Way Galaxy") which is marked by a super-massive black hole.
 
 The Ultima Segmentum is home to the largest number of worlds in the [Imperium of Man](https://warhammer40k.fandom.com/wiki/Imperium_of_Man "Imperium of Man") as it is the largest of the segmentae in terms of its sheer size and spatial volume. It contains the [Ultramarines](https://warhammer40k.fandom.com/wiki/Ultramarines "Ultramarines")' [Realm of Ultramar](https://warhammer40k.fandom.com/wiki/Realm_of_Ultramar "Realm of Ultramar"). It has seen attacks by two separate [Tyranid](https://warhammer40k.fandom.com/wiki/Tyranid "Tyranid") [hive fleets](https://warhammer40k.fandom.com/wiki/Hive_fleet "Hive fleet"), including [Hive Fleet Behemoth](https://warhammer40k.fandom.com/wiki/Hive_Fleet_Behemoth "Hive Fleet Behemoth") and [Hive Fleet Kraken](https://warhammer40k.fandom.com/wiki/Hive_Fleet_Kraken "Hive Fleet Kraken").
