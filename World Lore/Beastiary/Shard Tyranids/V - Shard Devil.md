@@ -1,3 +1,11 @@
+---
+type: creature
+visibility: gm
+faction: Shard Tyranids
+status: complete
+aliases:
+  - The Shard-Corrupted Catachan Devil
+---
 Shard Tyranid / **Final Boss: The Shard-Corrupted Catachan Devil**
 
 #NPC #ENEMY #EXPERIMENT #TYRANID #CATACHAN_DEVIL #BOSS 

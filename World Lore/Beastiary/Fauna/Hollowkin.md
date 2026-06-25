@@ -1,3 +1,10 @@
+---
+type: creature
+visibility: gm
+faction: Hollowkin
+status: complete
+aliases: []
+---
 ## **Folktale Fragment – “The Moving Shadow”**
 
 **Source:** Settler Logbook – Crater Varnax, M39.014 **Recovered By:** Archivist-Magos Tertullian Vex **Status:** Cultural Artifact – Non-Canonical

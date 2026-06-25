@@ -1,3 +1,10 @@
+---
+type: creature
+visibility: gm
+faction: Shard Tyranids
+status: complete
+aliases: []
+---
 Shard Tyranid / Melee Shock Trooper
 
 #NPC #ENEMY #EXPERIMENT #TYRANID #HORMAGAUNT #SHOCKTROOPER_UNIT

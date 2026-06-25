@@ -1,3 +1,10 @@
+---
+type: creature
+visibility: gm
+faction: Shard Tyranids
+status: complete
+aliases: []
+---
 Assassin
 
 #NPC #ENEMY #EXPERIMENT #TYRANID #LICTOR #ASSASSIN_UNIT 

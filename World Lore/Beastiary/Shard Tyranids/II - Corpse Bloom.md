@@ -1,3 +1,10 @@
+---
+type: creature
+visibility: gm
+faction: Shard Tyranids
+status: complete
+aliases: []
+---
 Exploding Parasite
 
 #NPC #ENEMY #EXPERIMENT #TYRANID #EXPLODING_UNIT

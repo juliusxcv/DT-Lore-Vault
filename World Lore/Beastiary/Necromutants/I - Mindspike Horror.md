@@ -1,3 +1,10 @@
+---
+type: creature
+visibility: gm
+faction: Necromutants
+status: complete
+aliases: []
+---
 Psychic Disruptor
 
 #NPC #ENEMY #EXPERIMENT #WILDLIFE #PSYCHIC

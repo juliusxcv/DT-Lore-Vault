@@ -1,3 +1,10 @@
+---
+type: creature
+visibility: gm
+faction: Shard Tyranids
+status: complete
+aliases: []
+---
 Shard Tyranid / Support
 
 #NPC #ENEMY #EXPERIMENT #TYRANID #SPORE #RANGED_UNIT 

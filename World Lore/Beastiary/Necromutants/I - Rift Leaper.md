@@ -1,3 +1,10 @@
+---
+type: creature
+visibility: gm
+faction: Necromutants
+status: complete
+aliases: []
+---
 Assassin Teleport Unit
 
 #NPC #ENEMY #EXPERIMENT #WILDLIFE #ASSASSIN_UNIT

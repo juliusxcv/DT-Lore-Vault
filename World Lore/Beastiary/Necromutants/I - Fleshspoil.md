@@ -1,3 +1,10 @@
+---
+type: creature
+visibility: gm
+faction: Necromutants
+status: complete
+aliases: []
+---
  Ambusher
 
 #NPC #ENEMY #EXPERIMENT #WILDLIFE #AMBUSH_UNIT

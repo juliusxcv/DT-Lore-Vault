@@ -1,3 +1,10 @@
+---
+type: creature
+visibility: gm
+faction: Necromutants
+status: complete
+aliases: []
+---
 Infiltrator
 
 #NPC #ENEMY #EXPERIMENT #WILDLIFE #INFILTRATOR_UNIT

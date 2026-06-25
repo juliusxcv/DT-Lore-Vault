@@ -1,3 +1,10 @@
+---
+type: creature
+visibility: gm
+faction: Necromutants
+status: complete
+aliases: []
+---
 Boss-Level Brute
 
 #NPC #ENEMY #NECROMUTANT #BOSS

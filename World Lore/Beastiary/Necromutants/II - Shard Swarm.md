@@ -1,3 +1,10 @@
+---
+type: creature
+visibility: gm
+faction: Necromutants
+status: complete
+aliases: []
+---
 Horde Unit
 
 #NPC #ENEMY #NECROMUTANT #HORDE_UNIT

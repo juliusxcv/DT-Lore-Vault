@@ -1,3 +1,9 @@
+---
+type: index
+visibility: gm
+status: complete
+aliases: []
+---
 #### [[Necromutants]]
 Mutated Wildlife Experiments that the Magus Biologis of Tenebris exposed to the Shard, are the first enemies to appear. First signs of necrotic mutations, similar to Nurgle but less putrid. Necromutants are the second enemy type to appear. The difference, these are creatures that have been altered by the shard itself. 
 

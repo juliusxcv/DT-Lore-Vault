@@ -1,3 +1,10 @@
+---
+type: creature
+visibility: gm
+faction: Necromutants
+status: complete
+aliases: []
+---
 Command Unit
 
 #NPC #ENEMY #NECROMUTANT #COMMAND_UNIT

@@ -1,3 +1,10 @@
+---
+type: creature
+visibility: gm
+faction: Shard Tyranids
+status: complete
+aliases: []
+---
 Ranged Support
 
 #NPC #ENEMY #EXPERIMENT #TYRANID #TERMAMAGAUNT #SUPPORT_UNIT
