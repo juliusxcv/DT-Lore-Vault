@@ -14,3 +14,7 @@
 # OS junk
 .DS_Store
 Thumbs.db
+*.psd
+*.mp4
+*.mov
+Assets/IMG/*.png
