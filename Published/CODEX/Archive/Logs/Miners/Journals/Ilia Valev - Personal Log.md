@@ -1,3 +1,9 @@
+---
+type: in-world-doc
+visibility: player
+status: stub
+aliases: []
+---
 
 ---
 ### Entry — First Weeks After Completion

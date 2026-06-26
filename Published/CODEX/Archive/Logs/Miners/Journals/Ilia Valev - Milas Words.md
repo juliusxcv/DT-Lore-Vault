@@ -1,3 +1,9 @@
+---
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
+---
 
 ---
 ### From the Journal of Ilia Valev
