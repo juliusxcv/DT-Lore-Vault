@@ -1,5 +1,9 @@
 ---
 cost: 250
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **INTERNAL DEFENSE ALERT**  
 **Timestamp:** // 04:37:41  

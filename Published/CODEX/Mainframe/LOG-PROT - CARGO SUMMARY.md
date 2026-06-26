@@ -1,5 +1,9 @@
 ---
 cost: 40
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **LOGISTICA NODE EPSILON – CARGO SUMMARY**  
 **Origin:** Beta Gate Cargo Office  

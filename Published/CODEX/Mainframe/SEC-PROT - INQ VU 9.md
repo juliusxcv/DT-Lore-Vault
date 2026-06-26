@@ -1,5 +1,9 @@
 ---
 cost: 250
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **SYSTEM ANOMALY REPORT**  
 **Timestamp:**  // 05:31:14  

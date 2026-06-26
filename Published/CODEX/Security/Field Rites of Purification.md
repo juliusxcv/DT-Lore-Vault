@@ -1,5 +1,9 @@
 ---
 code: ECC-4RS
+type: handout
+visibility: player
+status: stub
+aliases: []
 ---
 **ACCESS GRANTED**  
 **Field Rites of Purification – Liturgical Archive Unsealed**

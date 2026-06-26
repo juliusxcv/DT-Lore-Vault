@@ -1,5 +1,9 @@
 ---
 cost: 250
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **THETA GATE LOCKDOWN OVERRIDE**  
 **Security Clearance:** Inquisitorial Authority  

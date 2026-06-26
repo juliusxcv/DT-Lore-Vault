@@ -1,5 +1,9 @@
 ---
 cost: 500
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **INTERNAL COMMUNIQUÉ**  
 **Origin:** Vehicle Test Division  

@@ -1,5 +1,9 @@
 ---
 cost: 250
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **SECURITY COGITATOR NOTICE**  
 **Timestamp:** // 05:16:20  

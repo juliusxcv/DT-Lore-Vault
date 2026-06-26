@@ -1,5 +1,9 @@
 ---
 cost: 250
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **BIOHAZARD INCIDENT REPORT**  
 **Timestamp:**  // 04:51:12  

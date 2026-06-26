@@ -1,5 +1,9 @@
 ---
 cost: 35
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **INTERNAL SECURITY MEMO**  
 **Origin:** Security Command Deck  

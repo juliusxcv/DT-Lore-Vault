@@ -1,5 +1,9 @@
 ---
 cost: 130
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **LOGISTICA REQUISITION**  
 **Origin:** Logistica Node Epsilon  

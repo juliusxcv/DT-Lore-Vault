@@ -1,5 +1,9 @@
 ---
 cost: 250
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **AUTOMATED SECURITY DISPATCH**  
 **Timestamp:**  // 04:59:47  

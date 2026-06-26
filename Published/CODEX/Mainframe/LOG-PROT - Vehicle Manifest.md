@@ -1,5 +1,9 @@
 ---
 cost: "50"
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 # **RESEARCH FACILITY TENEBRIS — THETA GATE**
 

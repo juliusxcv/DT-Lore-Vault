@@ -1,5 +1,9 @@
 ---
 cost: 120
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **SECURITY REPORT**  
 **Origin:** Armory Sanctum Custodian Unit  

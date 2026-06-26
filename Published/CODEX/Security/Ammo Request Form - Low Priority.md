@@ -1,5 +1,9 @@
 ---
 code: MUN-5LW
+type: handout
+visibility: player
+status: stub
+aliases: []
 ---
 **ACCESS GRANTED**  
 **Ammo Request – Low Priority Approved**

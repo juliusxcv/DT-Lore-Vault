@@ -1,5 +1,9 @@
 ---
 cost: 25
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **INTERNAL MEMO**  
 **Origin:** Manufactorum Oversight Cell  

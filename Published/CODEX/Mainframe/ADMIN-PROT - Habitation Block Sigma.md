@@ -1,5 +1,9 @@
 ---
 cost: 5
+type: in-world-doc
+visibility: player
+status: stub
+aliases: []
 ---
 **PERSONNEL BULLETIN**  
 **Origin:** Habitation Block Sigma Administration  

@@ -1,5 +1,9 @@
 ---
 cost: 15
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **MAINTENANCE NOTICE**  
 **Origin:** Plasma Core Operations  

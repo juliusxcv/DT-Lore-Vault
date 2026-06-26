@@ -1,5 +1,9 @@
 ---
 cost: 150
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **FABRICATION STATUS REPORT**  
 **Origin:** Manufactorum Line IX  

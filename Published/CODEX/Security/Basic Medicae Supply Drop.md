@@ -1,5 +1,9 @@
 ---
 code: MED-8HL
+type: handout
+visibility: player
+status: stub
+aliases: []
 ---
 **ACCESS GRANTED**  
 **Basic Medicae Supply Request Approved**

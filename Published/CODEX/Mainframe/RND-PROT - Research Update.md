@@ -1,5 +1,9 @@
 ---
 cost: 100
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **RESEARCH UPDATE**  
 **Origin:** Adeptus Biologis Primary Labs  

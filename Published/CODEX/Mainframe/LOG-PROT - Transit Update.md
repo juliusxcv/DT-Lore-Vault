@@ -1,5 +1,9 @@
 ---
 cost: 100
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **TRANSPORT LOG**  
 **Origin:** Delta Gate Specimen Transit Authority  

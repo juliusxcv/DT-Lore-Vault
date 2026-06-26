@@ -1,5 +1,9 @@
 ---
 cost: 30
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **CHAPEL ANNOUNCEMENT**  
 **Origin:** Chapel of the Omnissiah  

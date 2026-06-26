@@ -1,5 +1,9 @@
 ---
 cost: 25
+type: in-world-doc
+visibility: player
+status: stub
+aliases: []
 ---
 **CLASSIFIED PROJECT NOTICE**  
 **Origin:** Magos Control Sanctum  

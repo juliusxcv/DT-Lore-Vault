@@ -1,5 +1,9 @@
 ---
 code: FLT-2VA
+type: handout
+visibility: player
+status: complete
+aliases: []
 ---
 ## **Form 77-B/HTX-Δ — Shuttle Departure Request Submission**
 

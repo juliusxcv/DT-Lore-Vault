@@ -1,5 +1,9 @@
 ---
 cost: 145
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **RESTRICTED FABRICATION SUMMARY**  
 **Origin:** Manufactorum Oversight Archive  

@@ -1,5 +1,9 @@
 ---
 cost: 250
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **INTRAFACILITY PLATFORM ACTIVATION**  
 **Timestamp:** // 04:18:02  

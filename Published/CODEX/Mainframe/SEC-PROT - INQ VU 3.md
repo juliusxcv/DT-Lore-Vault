@@ -1,5 +1,9 @@
 ---
 cost: 250
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **SECURITY MEMO – TRANSIT MONITORING**  
 **Timestamp:**  // 04:24:15  

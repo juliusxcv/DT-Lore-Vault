@@ -1,5 +1,9 @@
 ---
 cost: 10
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **ENGINEERING NOTICE**  
 **Origin:** Atmospheric Regulation Node  

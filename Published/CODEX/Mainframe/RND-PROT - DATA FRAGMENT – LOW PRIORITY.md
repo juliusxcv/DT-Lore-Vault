@@ -1,5 +1,9 @@
 ---
 cost: 120
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **DATA FRAGMENT – LOW PRIORITY**  
 **Origin:** Junior Enginseer Lyr-09 Personal Cogitator Archive  

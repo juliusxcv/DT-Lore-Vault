@@ -1,5 +1,9 @@
 ---
 cost: 30
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 
 ## **Form 77-B/HTX-Δ — Shuttle Departure Request Submission**

@@ -1,5 +1,9 @@
 ---
 cost: 120
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **SECURITY PATROL REPORT**  
 **Origin:** Subterranean Transit Watch  

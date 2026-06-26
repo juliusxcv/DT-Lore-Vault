@@ -1,5 +1,9 @@
 ---
 cost: 250
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
 ---
 **VOX FRAGMENT – KILLTEAM TRANSMISSION**  
 **Timestamp:**  // 04:43:06  
