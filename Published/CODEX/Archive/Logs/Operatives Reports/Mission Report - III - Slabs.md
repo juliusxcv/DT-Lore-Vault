@@ -1,3 +1,9 @@
+---
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
+---
 Author: Slabs
 
 Boss Lady Seraphina,

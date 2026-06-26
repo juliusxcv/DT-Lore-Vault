@@ -1,3 +1,9 @@
+---
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
+---
 Author: Nullis Helbrecht
 
 Blessed is the mind too small for doubt, for mine is filled with the visions of this day’s carnage.

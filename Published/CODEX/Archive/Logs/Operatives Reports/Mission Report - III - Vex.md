@@ -1,3 +1,9 @@
+---
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
+---
 Author: Vexilia Thornkell
 
 My lightning felt weak today, but the Beautiful One seemed blessed. Her dance of death is impressive. Enchanting even.

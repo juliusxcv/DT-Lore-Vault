@@ -1,3 +1,9 @@
+---
+type: creature
+visibility: player
+status: stub
+aliases: []
+---
 
 ## LVL 1 Autopsy:
 Unlike the undead cadavers recovered in the outer sectors, these subjects retained higher cognitive function at the moment of transformation. Combat recordings show coordinated flanking maneuvers, target prioritization, and limited use of firearms even after extensive mutation. Identification tags recovered from several specimens confirm they were formerly Imperial Guard personnel assigned to internal security within Facility Tenebris. Their presence deep within the sealed complex suggests the existence of secondary access routes beyond the primary lockdown gates.

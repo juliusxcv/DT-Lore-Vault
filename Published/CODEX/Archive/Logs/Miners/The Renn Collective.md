@@ -1,3 +1,9 @@
+---
+type: in-world-doc
+visibility: player
+status: stub
+aliases: []
+---
 **Occupied:** [[House II - Renn Collective]]
 **Role:** Logistics and Ration Oversight
 

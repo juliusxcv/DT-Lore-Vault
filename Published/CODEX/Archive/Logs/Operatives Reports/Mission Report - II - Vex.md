@@ -1,3 +1,9 @@
+---
+type: in-world-doc
+visibility: player
+status: complete
+aliases: []
+---
 Author: Vexilia Thornkell
 
 I was scratched! Mask, have you forsaken me? No… no. Your lightning came when I called for it.

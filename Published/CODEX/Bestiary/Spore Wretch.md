@@ -1,3 +1,9 @@
+---
+type: creature
+visibility: player
+status: complete
+aliases: []
+---
 ## LVL 1 Autopsy:
 Initial examination classified the specimen as an unusually large fungal growth native to neither Luna Tenebris nor any catalogued Imperial ecosystem. The organism possesses a bulbous cap-like structure supported by multiple tendril appendages that function as both locomotor and anchoring organs. Surface tissue exhibits characteristics consistent with fungal mycelium, including spore-producing nodules and extensive nutrient absorption membranes.
 

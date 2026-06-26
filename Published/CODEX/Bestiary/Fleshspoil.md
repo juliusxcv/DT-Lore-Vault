@@ -1,3 +1,9 @@
+---
+type: creature
+visibility: player
+status: complete
+aliases: []
+---
 
 ## LVL 1 Autopsy:
 The designated _Fleshspoil_ possesses no stable anatomy and cannot be traced to a single host organism. Instead, the specimen consists of multiple human bodies fused into a singular biological mass. Limbs emerge without symmetry, skeletal structures overlap and interlock, and several partially integrated torsos remain visibly distinct within the greater organism. Internal motion persists even in severed sections, suggesting localized biological autonomy across the mass.

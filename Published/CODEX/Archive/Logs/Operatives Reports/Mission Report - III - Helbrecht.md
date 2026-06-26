@@ -1,3 +1,9 @@
+---
+type: in-world-doc
+visibility: player
+status: stub
+aliases: []
+---
 Author: Helbrecht Nullis
 
 Dear Honorable Inquisitor Seraphina,
