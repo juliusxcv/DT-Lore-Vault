@@ -4,6 +4,7 @@ visibility: gm
 faction: Shadow Sentinels
 status: complete
 aliases: []
+parent: "[[World Lore/Characters/Shadow Sentinels/Col. Alera Vandis|Col. Alera Vandis]]"
 ---
 ### NPC Profile: Lieutenant Darius Koln
 
@@ -93,3 +94,12 @@ _[static, eleven seconds]_
 —they won't understand what I heard. But it wasn't malevolent. It was—
 
 _[SIGNAL LOST. ENTRY INCOMPLETE.]_
+
+## Direct Reports
+
+```dataview
+LIST
+FROM ""
+WHERE parent.path = this.file.folder + "/" + this.file.stem
+SORT file.name ASC
+```

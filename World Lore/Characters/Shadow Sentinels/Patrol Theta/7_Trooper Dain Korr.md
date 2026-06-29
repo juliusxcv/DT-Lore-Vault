@@ -4,6 +4,7 @@ visibility: gm
 faction: Shadow Sentinels
 status: complete
 aliases: []
+parent: "[[World Lore/Characters/Shadow Sentinels/Patrol Theta/0_Sergeant Arik Varn|Sergeant Arik Varn]]"
 ---
 **Personality:** Young and eager, with a determination to prove himself despite his inexperience.
 

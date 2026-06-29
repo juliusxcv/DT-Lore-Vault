@@ -4,6 +4,7 @@ visibility: gm
 faction: Inquisition
 status: complete
 aliases: []
+parent: "[[World Lore/Characters/Inquisition/Ordo Xenos/Ordo Xenos|Ordo Xenos]]"
 ---
 Lucius Harridan, a name whispered with equal parts reverence and fear within the halls of the Ordo Xenos, began his journey as a promising acolyte with an unyielding passion for the Imperium's survival. Born on the industrial world of Calyx Prime, Harridan grew up amidst the smog-choked factories and relentless toil of the hive cities. His early years were marked by a fierce intellect and a natural aptitude for uncovering hidden truths, traits that caught the attention of an Inquisitor passing through the sector.
 

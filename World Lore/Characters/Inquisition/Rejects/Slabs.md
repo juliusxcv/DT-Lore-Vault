@@ -5,6 +5,7 @@ faction: Inquisition
 status: complete
 aliases:
   - OGR-271
+parent: "[[World Lore/Characters/Inquisition/Ordo Xenos/Lord Inquisitor Seraphina Valeria|Lord Inquisitor Seraphina Valeria]]"
 ---
 Arbites Intelligence Report – Subject: OGR‑271  
 Recipient: [[Lord Inquisitor Seraphina Valeria]]

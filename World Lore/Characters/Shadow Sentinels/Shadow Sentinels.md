@@ -4,6 +4,7 @@ visibility: gm
 faction: Shadow Sentinels
 status: complete
 aliases: []
+parent: "[[World Lore/Characters/Shadow Sentinels/Astra Militarum|Astra Militarum]]"
 ---
 **Shadow Sentinel Imperial Guard Regiment**
 

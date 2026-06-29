@@ -4,6 +4,7 @@ visibility: gm
 faction: Inquisition
 status: complete
 aliases: []
+parent: "[[World Lore/Characters/Inquisition/Ordo Xenos/Ordo Xenos|Ordo Xenos]]"
 ---
 Born into a noble family on the hive world of Triach IV, Seraphina Valeria was destined for greatness from the moment of her birth. Her family, known for their unwavering loyalty to the Imperium and their contributions to the Astra Militarum, instilled in her a deep sense of duty and a fierce determination to protect humanity. From a young age, Seraphina exhibited a keen intellect, an insatiable curiosity, and an unyielding resolve—traits that would serve her well in the dark and dangerous future that awaited her.
 
@@ -189,4 +190,13 @@ In the grim darkness of the far future, Lord Inquisitor Seraphina Valeria stands
 - **“The enemy is dangerous. You are embarrassing. Even heretics usually have a plan. ”**
 - **“You have failed upward for the last time.”**
 - **“I will remember this.”**
-- **“When this mission ends, some of you will not leave this moon. Decide whether that is by design or by failure."**
+- **”When this mission ends, some of you will not leave this moon. Decide whether that is by design or by failure.”**
+
+## Direct Reports
+
+```dataview
+LIST
+FROM “”
+WHERE parent.path = this.file.folder + “/” + this.file.stem
+SORT file.name ASC
+```

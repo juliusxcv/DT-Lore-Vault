@@ -4,6 +4,7 @@ visibility: gm
 faction: Shadow Sentinels
 status: complete
 aliases: []
+parent: "[[World Lore/Characters/Shadow Sentinels/Patrol Theta/Lt Darius Koln - Deceased|Lt Darius Koln]]"
 ---
 **Position**: Leader of Patrol Theta
 **Personality:** Stoic and battle-hardened, with a strong sense of duty despite exhaustion.
@@ -78,3 +79,12 @@ ___
 
 **Closing Statement:** 
 >"Keep your wits about you. This moon has teeth now, and it’s biting hard."
+
+## Direct Reports
+
+```dataview
+LIST
+FROM ""
+WHERE parent.path = this.file.folder + "/" + this.file.stem
+SORT file.name ASC
+```

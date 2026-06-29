@@ -4,6 +4,7 @@ visibility: gm
 faction: Inquisition
 status: complete
 aliases: []
+parent: "[[World Lore/Characters/Inquisition/Ordo Xenos/Lord Inquisitor Seraphina Valeria|Lord Inquisitor Seraphina Valeria]]"
 ---
 
 **SUBJECT PROFILE**

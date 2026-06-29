@@ -4,6 +4,7 @@ visibility: gm
 faction: Drukhari
 status: complete
 aliases: []
+parent: "[[World Lore/Characters/Drukhari/Shards of Venom|Shards of Venom]]"
 ---
 Drukhari / [[Shards of Venom]]
 

@@ -1,0 +1,34 @@
+note_path,proposed_parent_fullpath,is_container,create,create_at_path
+World Lore/Characters/Drukhari/Operatives/Archon Vaelinth Sissarath.md,World Lore/Characters/Drukhari/Shards of Venom.md,no,no,
+World Lore/Characters/Drukhari/Operatives/Beastmaster Kaeryth Varzhiss.md,World Lore/Characters/Drukhari/Shards of Venom.md,no,no,
+World Lore/Characters/Drukhari/Operatives/Haemonculus Draszhar Tovexus.md,World Lore/Characters/Drukhari/Shards of Venom.md,no,no,
+World Lore/Characters/Drukhari/Operatives/Scourge Anaris Taelqir.md,World Lore/Characters/Drukhari/Shards of Venom.md,no,no,
+World Lore/Characters/Drukhari/Operatives/Succubus Yrellith Vhaxra.md,World Lore/Characters/Drukhari/Shards of Venom.md,no,no,
+World Lore/Characters/Drukhari/Operatives/Sybarite Zyrane Krythorr.md,World Lore/Characters/Drukhari/Shards of Venom.md,no,no,
+World Lore/Characters/Drukhari/Shards of Venom.md,World Lore/Characters/Drukhari/Kabal of the Crystal Daggers.md,yes,no,
+World Lore/Characters/Drukhari/Kabal of the Crystal Daggers.md,World Lore/Characters/Drukhari/Drukhari.md,yes,yes,World Lore/Characters/Drukhari/Kabal of the Crystal Daggers.md
+World Lore/Characters/Drukhari/Drukhari.md,,yes,yes,World Lore/Characters/Drukhari/Drukhari.md
+World Lore/Characters/Shadow Sentinels/Shadow Sentinels.md,World Lore/Characters/Shadow Sentinels/Astra Militarum.md,yes,no,
+World Lore/Characters/Shadow Sentinels/Patrol Theta/1_Corporal Nia Drask.md,World Lore/Characters/Shadow Sentinels/Patrol Theta/0_Sergeant Arik Varn.md,no,no,
+World Lore/Characters/Shadow Sentinels/Patrol Theta/2_Medic Salla Veylan.md,World Lore/Characters/Shadow Sentinels/Patrol Theta/0_Sergeant Arik Varn.md,no,no,
+World Lore/Characters/Shadow Sentinels/Patrol Theta/3_Marksman Kael Ryn.md,World Lore/Characters/Shadow Sentinels/Patrol Theta/0_Sergeant Arik Varn.md,no,no,
+World Lore/Characters/Shadow Sentinels/Patrol Theta/4_Heavy Weapons Specialist Bronn Kade.md,World Lore/Characters/Shadow Sentinels/Patrol Theta/0_Sergeant Arik Varn.md,no,no,
+World Lore/Characters/Shadow Sentinels/Patrol Theta/5_Demolition Expert Tarek Voss.md,World Lore/Characters/Shadow Sentinels/Patrol Theta/0_Sergeant Arik Varn.md,no,no,
+World Lore/Characters/Shadow Sentinels/Patrol Theta/6_Tech-Savant Khorvis.md,World Lore/Characters/Shadow Sentinels/Patrol Theta/0_Sergeant Arik Varn.md,no,no,
+World Lore/Characters/Shadow Sentinels/Patrol Theta/7_Trooper Dain Korr.md,World Lore/Characters/Shadow Sentinels/Patrol Theta/0_Sergeant Arik Varn.md,no,no,
+World Lore/Characters/Shadow Sentinels/Patrol Theta/8_Trooper Garran Vyce.md,World Lore/Characters/Shadow Sentinels/Patrol Theta/0_Sergeant Arik Varn.md,no,no,
+World Lore/Characters/Shadow Sentinels/Patrol Theta/9_Trooper Lira Venn.md,World Lore/Characters/Shadow Sentinels/Patrol Theta/0_Sergeant Arik Varn.md,no,no,
+World Lore/Characters/Shadow Sentinels/Patrol Theta/0_Sergeant Arik Varn.md,World Lore/Characters/Shadow Sentinels/Patrol Theta/Lt Darius Koln - Deceased.md,yes,no,
+World Lore/Characters/Shadow Sentinels/Patrol Theta/Lt Darius Koln - Deceased.md,World Lore/Characters/Shadow Sentinels/Col. Alera Vandis.md,yes,no,
+World Lore/Characters/Shadow Sentinels/Col. Alera Vandis.md,World Lore/Characters/Shadow Sentinels/Astra Militarum.md,yes,yes,World Lore/Characters/Shadow Sentinels/Col. Alera Vandis.md
+World Lore/Characters/Shadow Sentinels/Astra Militarum.md,,yes,yes,World Lore/Characters/Shadow Sentinels/Astra Militarum.md
+World Lore/Characters/Inquisition/Rejects/ALB-XXIII.md,World Lore/Characters/Inquisition/Ordo Xenos/Lord Inquisitor Seraphina Valeria.md,no,no,
+World Lore/Characters/Inquisition/Rejects/Helbrecht Nullis.md,World Lore/Characters/Inquisition/Ordo Xenos/Lord Inquisitor Seraphina Valeria.md,no,no,
+World Lore/Characters/Inquisition/Rejects/Slabs.md,World Lore/Characters/Inquisition/Ordo Xenos/Lord Inquisitor Seraphina Valeria.md,no,no,
+World Lore/Characters/Inquisition/Rejects/Vexilia Thornkell.md,World Lore/Characters/Inquisition/Ordo Xenos/Lord Inquisitor Seraphina Valeria.md,no,no,
+World Lore/Characters/Inquisition/Ordo Xenos/Lord Inquisitor Seraphina Valeria.md,World Lore/Characters/Inquisition/Ordo Xenos/Ordo Xenos.md,yes,no,
+World Lore/Characters/Inquisition/Ordo Xenos/Lord Inquisitor Lucius Harridan.md,World Lore/Characters/Inquisition/Ordo Xenos/Ordo Xenos.md,no,no,
+World Lore/Characters/Inquisition/Ordo Xenos/Ordo Xenos.md,World Lore/Characters/Inquisition/Inquisition.md,yes,yes,World Lore/Characters/Inquisition/Ordo Xenos/Ordo Xenos.md
+World Lore/Characters/Inquisition/Inquisition.md,,yes,yes,World Lore/Characters/Inquisition/Inquisition.md
+World Lore/Characters/Inquisition/Deathwatch/Killteam Velatum Umbra.md,World Lore/Characters/Inquisition/Deathwatch/Deathwatch.md,no,no,
+World Lore/Characters/Inquisition/Deathwatch/Deathwatch.md,World Lore/Characters/Inquisition/Ordo Xenos/Ordo Xenos.md,yes,yes,World Lore/Characters/Inquisition/Deathwatch/Deathwatch.md

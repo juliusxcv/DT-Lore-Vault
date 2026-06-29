@@ -5,6 +5,7 @@ faction: Inquisition
 status: complete
 aliases:
   - PSY-VEX
+parent: "[[World Lore/Characters/Inquisition/Ordo Xenos/Lord Inquisitor Seraphina Valeria|Lord Inquisitor Seraphina Valeria]]"
 ---
 Arbites Intelligence Report – Subject: PSY‑VEX  
 Recipient: [[Lord Inquisitor Seraphina Valeria]]  

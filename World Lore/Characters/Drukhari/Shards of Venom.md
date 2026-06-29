@@ -4,6 +4,7 @@ visibility: gm
 faction: Drukhari
 status: complete
 aliases: []
+parent: "[[World Lore/Characters/Drukhari/Kabal of the Crystal Daggers|Kabal of the Crystal Daggers]]"
 ---
 This splinter force from the Kabal of the Crystal Daggers is led by the infamous Archon **Vaelinth Sissarath**, whose cunning and cruelty are whispered of even among other Drukhari. Initially sent on a beast-hunting mission, their raid took an unexpected turn when scouts reported [[Research Facility Tenebris]] rich with potential: local wildlife enhanced by xenos gene-splicing technology. Vaelinth's twisted mind immediately saw not only an opportunity for exotic beasts for the arena, but also a chance to seize the artifact itself, bringing personal prestige and new horrors to unleash upon the slaves of Commorragh.
 
@@ -51,3 +52,12 @@ that prevents it from performing the Dash action.
 Stimulated Senses
 When: After rolling your attack or defence dice for the operative.
 Effect: You can re-roll one of your dice.
+
+## Members
+
+```dataview
+LIST
+FROM ""
+WHERE parent.path = this.file.folder + "/" + this.file.stem
+SORT file.name ASC
+```

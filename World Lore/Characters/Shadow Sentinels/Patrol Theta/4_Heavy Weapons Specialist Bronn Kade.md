@@ -4,6 +4,7 @@ visibility: gm
 faction: Shadow Sentinels
 status: complete
 aliases: []
+parent: "[[World Lore/Characters/Shadow Sentinels/Patrol Theta/0_Sergeant Arik Varn|Sergeant Arik Varn]]"
 ---
 **Personality:** Gruff and imposing, with a deep loyalty to his comrades and a love for heavy firepower.
 

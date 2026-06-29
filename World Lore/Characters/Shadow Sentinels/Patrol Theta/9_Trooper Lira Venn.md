@@ -4,6 +4,7 @@ visibility: gm
 faction: Shadow Sentinels
 status: complete
 aliases: []
+parent: "[[World Lore/Characters/Shadow Sentinels/Patrol Theta/0_Sergeant Arik Varn|Sergeant Arik Varn]]"
 ---
 **Personality:** Resourceful and adaptable, with a knack for finding solutions in dire situations.
 
