@@ -3,6 +3,7 @@ type: location
 visibility: gm
 status: stub
 aliases: []
+parent: "[[World Lore/Places/Luna Tenebris/Mining Settlement/Mining Settlement|Mining Settlement]]"
 ---
 **Former Inhabitants**: [[The Helbrun Family]]
 **Points of Interest:**

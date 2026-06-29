@@ -3,6 +3,7 @@ type: location
 visibility: gm
 status: complete
 aliases: []
+parent: "[[World Lore/Places/System/Bellum Eternum|Bellum Eternum]]"
 ---
 The third Planet of the System [[Bellum Eternum]]
 
@@ -66,3 +67,7 @@ Bellum Eternum Tertius is the third planet in the Bellum Eternum system, located
 **Verified By:** Ordo Xenos – Helios Sub-Cluster Command 
 **Seal Code:** XN-HIST-9983-BET 
 **Date of Verification:** 998.M41
+
+## Locations
+
+- [[World Lore/Places/System/Luna Tenebris|Luna Tenebris]]

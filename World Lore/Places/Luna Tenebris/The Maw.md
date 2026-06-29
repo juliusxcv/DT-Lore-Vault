@@ -3,5 +3,6 @@ type: location
 visibility: gm
 status: stub
 aliases: []
+parent: "[[World Lore/Places/System/Luna Tenebris|Luna Tenebris]]"
 ---
 The Maw is the Name of a vast underground Network of Caves, dubbed so by the Promethium Miners. These caves were formed when the [[Midnight Wraith]] materialized within [[Luna Tenebris]].

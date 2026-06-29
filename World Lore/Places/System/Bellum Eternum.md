@@ -4,6 +4,7 @@ visibility: gm
 status: complete
 aliases:
   - Bellum Eternum Prime
+parent: "[[World Lore/Places/Segmentum Ultima|Segmentum Ultima]]"
 ---
 ## **Planetary Governance Report – Bellum Eternum Prime**
 
@@ -71,3 +72,7 @@ Despite its industrial designation, Bellum Eternum Prime maintains an unusually 
 **Verified By:** Lord Inquisitor Seraphina Valeria 
 **Seal Code:** XN-GOV-9983-BEP 
 **Date of Verification:** 998.M41
+
+## Locations
+
+- [[World Lore/Places/System/Bellum Eternum Tertius|Bellum Eternum Tertius]]
