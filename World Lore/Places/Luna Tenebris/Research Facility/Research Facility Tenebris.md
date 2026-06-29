@@ -4,6 +4,7 @@ visibility: gm
 status: complete
 aliases:
   - Tenebris Prime
+parent: "[[World Lore/Places/System/Luna Tenebris|Luna Tenebris]]"
 ---
 ![[Arcology.jpg]]
 
@@ -116,3 +117,10 @@ Scattered across the moon’s barren surface are eight disguised entrance points
 | Warp Resonance Chamber | Redacted                     | Unknown |
 | Security Command Deck  | Command Control              | Unknown |
 | Garrison               | Shadow Sentinels Barracks    | Unknown |
+
+## Locations
+
+- [[World Lore/Places/Luna Tenebris/Research Facility/0_Theta Gate/Foremans Hut|Foremans Hut]]
+- [[World Lore/Places/Luna Tenebris/Research Facility/0_Theta Gate/Landing Platform|Landing Platform]]
+- [[World Lore/Places/Luna Tenebris/Research Facility/0_Theta Gate/Theta Gate|Theta Gate]]
+- [[World Lore/Places/Luna Tenebris/Research Facility/0_Theta Gate/Vox Relay Tower|Vox Relay Tower]]
