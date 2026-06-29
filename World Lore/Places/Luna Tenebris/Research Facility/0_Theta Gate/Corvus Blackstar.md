@@ -3,6 +3,7 @@ type: item
 visibility: gm
 status: stub
 aliases: []
+parent: "[[Landing Platform]]"
 ---
 The Landing Craft of [[Killteam Velatum Umbra]]
 
