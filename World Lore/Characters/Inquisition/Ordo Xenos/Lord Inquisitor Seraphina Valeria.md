@@ -192,11 +192,3 @@ In the grim darkness of the far future, Lord Inquisitor Seraphina Valeria stands
 - **“I will remember this.”**
 - **”When this mission ends, some of you will not leave this moon. Decide whether that is by design or by failure.”**
 
-## Direct Reports
-
-```dataview
-LIST
-FROM “”
-WHERE parent.path = this.file.folder + “/” + this.file.stem
-SORT file.name ASC
-```

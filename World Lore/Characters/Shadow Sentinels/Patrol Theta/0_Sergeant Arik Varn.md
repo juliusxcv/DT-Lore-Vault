@@ -80,11 +80,3 @@ ___
 **Closing Statement:** 
 >"Keep your wits about you. This moon has teeth now, and it’s biting hard."
 
-## Direct Reports
-
-```dataview
-LIST
-FROM ""
-WHERE parent.path = this.file.folder + "/" + this.file.stem
-SORT file.name ASC
-```

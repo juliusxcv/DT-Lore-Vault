@@ -95,11 +95,3 @@ _[static, eleven seconds]_
 
 _[SIGNAL LOST. ENTRY INCOMPLETE.]_
 
-## Direct Reports
-
-```dataview
-LIST
-FROM ""
-WHERE parent.path = this.file.folder + "/" + this.file.stem
-SORT file.name ASC
-```

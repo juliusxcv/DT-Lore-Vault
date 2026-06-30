@@ -53,11 +53,3 @@ Stimulated Senses
 When: After rolling your attack or defence dice for the operative.
 Effect: You can re-roll one of your dice.
 
-## Members
-
-```dataview
-LIST
-FROM ""
-WHERE parent.path = this.file.folder + "/" + this.file.stem
-SORT file.name ASC
-```
