@@ -17,6 +17,9 @@ This splinter force from the Kabal of the Crystal Daggers is led by the infamous
 **[[Beastmaster Kaeryth Varzhiss]] ("The Whisperer of Fangs")**
 **[[Scourge Anaris Taelqir]] ("The Skyhunter")**
 
+### The Alderidge Precedent [GM]
+
+This is not Sissarath's first shard. Some years before Tenebris — the affair the Inquisition buried as the *Crystal Covenant* — the Shards of Venom fed a Rogue Trader dynasty coordinates to an off-charts vault and let her fleet do the breaching. Isabella [[World Lore/Characters/Inquisition/Rejects/Isabella Alderidge - Rogue Trader|Alderidge]] believed she was buying a gene-accelerator; Sissarath knew it for what it was and used her crew as expendable hands, withdrawing into the webway the moment the seal cracked. He earned "The Shard Keeper" on the fragment he walked away with. He does not know, and would not care, that the woman he ruined now serves the Inquisitor who caught the signature and turned up to salvage the wreck. Should the two cross paths beneath Tenebris, the recognition is one-sided at first — and entirely his advantage. To the kabal the shard is still only prestige and arena-stock; that the moon holds a mother-lode of it, and what that mother-lode truly is, is a horror they raid blind toward.
 
 #### Rules
 POWER FROM PAIN

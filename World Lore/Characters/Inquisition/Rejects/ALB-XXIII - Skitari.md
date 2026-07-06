@@ -6,8 +6,15 @@ status: complete
 aliases: []
 parent: "[[World Lore/Characters/Inquisition/Ordo Xenos/Lord Inquisitor Seraphina Valeria|Lord Inquisitor Seraphina Valeria]]"
 ---
-The Adventures of ALB-XXIII: The Rogue Skitarii
+## GM Summary
+- **Role:** Skitarii Vanguard (rogue, self-aware) — reconnaissance, ambush tactics, marksmanship
+- **Squad epithets:** the Steel-Soul (Nullis), the Mechanical One (Thornkell), Metal Man (Slabs)
+- **Custody origin:** Flagged renegade by the Adeptus Arbites (Kharis-IX); termination mandated by Mechanicus doctrine, deferred to Inquisitorial authority
+- **Active hooks:** Hunted by the Adeptus Mechanicus for his sentience; servo-skull companion B-III (formerly Bill); machine spirits cooperate with him unusually readily — relevant wherever corrupted machinery waits
 
+---
+
+### Background
 ALB-XXIII, a Skitarii soldier from the secretive Forge World of Selvanus Binary in the Askelon Sector, served High Fabricator Dinuum for roughly 64,000 hours. Selvanus, an isolationist forge world renowned for advanced weaponry, implants, and servitors, deployed ALB-XXIII on covert missions. Skilled in reconnaissance, ambush tactics, and marksmanship, he protected archeotech-hunting expeditions across planets and asteroids, battling Eldar, Tau, Orks, and the Kin.
 
 Dinuum hid persistent Ork infestations and Eldar incursions to safeguard Selvanus’ reputation. After missions, ALB-XXIII was placed in stasis to extend his “shelf life,” a controversial practice. His humanity, dulled by a botched lobotomy and rewrite protocols, left him a tool of the Omnissiah. On a perilous expedition, ALB-XXIII was lost—stranded and malfunctioning—until Bill, a scavenging voidsman, found him. Using a mysterious green-glowing artifact, Bill repaired ALB-XXIII’s faulty lobotomy, restoring his self-awareness.
@@ -28,42 +35,19 @@ Voidport Brawl: In a cantina, Bill’s tall tales sparked a brawl. ALB-XXIII def
 
 
 
- Arbites Intelligence Report – Subject: Skitarii Designation Redacted
-
-
+### Arbites Intelligence Report – Subject: Skitarii Designation Redacted
 Recipient: [[Lord Inquisitor Seraphina Valeria]]
-
 Origin: Adeptus Arbites, Kharis-IX Enforcement Division  
-
 Security Clearance: PRIORITY ALPHA – HIGH THREAT ANALYSIS  
 
-  
-
----
-
-  
-
  Subject Profile  
-
 - Designation: REDACTED
-
 - Classification: Skitarii Vanguard—Mechanicus Augmented Operative  
-
 - Status: ACTIVE, potential Renegade Classification  
+- Current Evaluation: FLAGGED for Immediate Inquisitorial Oversight    
 
-- Current Evaluation: FLAGGED for Immediate Inquisitorial Oversight  
 
-  
-
----
-
-  
-
- Findings & Threat Assessment  
-
-  
-
-Subject presents severe anomalies outside standard Skitarii operational parameters:  
+Findings & Threat Assessment: Subject presents severe anomalies outside standard Skitarii operational parameters:  
 
 Self-Awareness: Expresses uncharacteristic independent thought—behavior patterns exceed standard Mechanicus directives.  
 
@@ -72,37 +56,32 @@ Xenos Contact: Multiple confirmed interactions with non-human entities, includin
 Unusual Cognitive Retention: Displays memories exceeding expected data recall limits, hinting at unregulated self-preservation instincts.  
 
 Potential Compromise of the Omnissiah’s Will: No verifiable connection to Skitarii command override protocols—suggesting complete operational autonomy.  
-
   
 
 These factors disqualify the subject from standard Skitarii protocol. Immediate termination is mandated by Mechanicus doctrine, yet due to unknown operational significance, the matter is deferred to Inquisitorial authority.  
 
   
 
----
-
-  
-
  Recommended Course of Action  
-
 - High-Risk Observation: Subject’s unrestricted autonomy makes containment unreliable. Constant surveillance recommended.  
-
 - Interrogation Under Seal of the Inquisition: Subject may possess sensitive intelligence regarding Xenos contact—interrogation should determine all foreign influences before final judgment.  
-
 - Permanent Asset Disposal OR Controlled Integration: If deemed too unstable, subject must be purged before breach risk escalates. If operational value is confirmed, a heavily regulated assimilation process could be attempted under Inquisitorial constraints.  
-
-  
-
----
-
-  
 
  Final Arbites Declaration  
 
 _"This operative does not align with Mechanicus doctrine nor Imperial protocol. Their continued existence stands against prescribed order. The Arbites classify them as a direct anomaly requiring immediate action."_
 
-  
-
-- Signed: Arbites Marshal Aven Korvex  
-
+- Signed: Arbites Marshal Aven Korvex  
 - Authority Code: VX-942-SEAL
+
+---
+
+## Recruitment & Current Status
+Transferred from Arbites threat-assessment custody to the authority of Lord Inquisitor Seraphina Valeria, Ordo Xenos, and inducted into the operative cell [[World Lore/Characters/Inquisition/Rejects/Rejects|the Rejects]]. Currently deployed on Luna Tenebris (998.M41), reporting to Valeria aboard the *Imperialis Aegis* via secure vox relay.
+
+## Campaign Development Log
+*(Compiled from operative mission reports. Update each cycle.)*
+- **Mission I:** Restored the settlement generators. Cited by Nullis as the only operative "with a shred of purpose" — reliability noted by both squad and Inquisitor.
+- **Mission II:** Assessed as "efficient" in the defence of the base (Thornkell).
+- **Mission III:** Unearthed data fragments alongside Rook, including a transcript concerning "the Angels' arrival." Thornkell records growing regard: "a certain elegance to his demeanour."
+- Files no written mission reports of his own to date.

@@ -37,11 +37,13 @@ This is the one placed on the wargaming table and the place where most of the ca
 
 
 ### **The Inquisition Arrives**
-In 761.M41, a covert Inquisitorial probe led by **[[Lord Inquisitor Lucius Harridan]]** intercepted anomalous data transmissions from Gate Theta—signals that matched known warp-taint patterns. Upon investigation, Harridan’s team discovered the **[[Midnight Wraith]]**, buried beneath the facility’s deepest vaults.
+In 995.M41, the **[[Project HELIOS SHEPHERD]]** weapons test breached the strata beneath the lowest research levels, exposing a section of the **[[Midnight Wraith]]** *inside* the facility. The uncontained breach tripped an automated warp-taint alert through Gate Theta—signals matching known warp-taint patterns.
 
-The discovery triggered an immediate **Inquisition override**. Tenebris was seized under the authority of the Ordo Xenos, and all Mechanicus personnel were either reassigned, interrogated, or purged.
+**[[Lord Inquisitor Lucius Harridan]]**—already hunting the Midnight Wraith—responded to the alert and moved on Tenebris. He did not discover the hulk here; he had tracked it for over a thousand years. The breach told him where it had gone to ground.
 
-Harridan repurposed the facility for containment and study of the Midnight Wraith, converting the central hub into a **Null-Seal Crypt**. Psychic dampeners, purity wards, and anti-warp lattice fields were installed—but containment was never perfect.
+The breach triggered an immediate **Inquisition override**. Tenebris was seized under the authority of the Ordo Xenos, and all Mechanicus personnel were either reassigned, interrogated, or purged.
+
+Harridan repurposed the facility for containment and study of the Midnight Wraith, converting the central hub into a **Null-Seal Crypt**. Psychic dampeners, purity wards, and anti-warp lattice fields were installed—but containment was never perfect. His subsequent experiments on the Shard are what woke the corruption now seeping upward through the deep levels.
 
 
 ### **Current Status**

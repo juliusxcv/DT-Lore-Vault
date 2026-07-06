@@ -11,16 +11,16 @@ parent: "[[World Lore/Characters/Inquisition/Deathwatch/Deathwatch|Deathwatch]]"
 > Watch Commander Vorth,
 > By Inquisitorial authority and under Standing Accord Xenos-2279-A ("Raxos Edict"), I submit this priority request for the deployment of a compact, highly specialized Deathwatch Killteam to investigate an incident of strategic and xeno-archaeological concern.
 > 
-> **Target Zone:** Luna Tenebris Research Facility, orbital fragment – Bellum Eternum System  **‍**
-> **Last Contact:** Confirmed 10.018.869.M41 – standard Ordo Xenos reconnaissance killteam (Ref: K-Tauros)  **‍**
-> **Nature of Loss:** All signals ceased during descent into Sublevel Epsilon. No breach alert registered. Auspex feed terminated without anomaly trace. Psychic residue inconsistent with Warp exposure but aligned with deep-techno interference.
+> **Target Zone:** Luna Tenebris Research Facility, orbital fragment – Bellum Eternum System  **‍**
+> **Last Contact:** Confirmed 10.018.997.M41 – Research Facility Tenebris. Inquisitor Harridan's final transmission terminated mid-report; facility vox has fallen silent since.  **‍**
+> **Nature of Loss:** Internal signals ceased across the lower sublevels without a breach alert. Auspex feeds terminated without anomaly trace. Psychic residue inconsistent with Warp exposure but aligned with deep-techno interference.
 > 
 > I suspect pre-Imperial constructs or obfuscated xenos architectures beneath the station. Harshly shielded. Mechanicus logs are compromised and clearly redacted at high tiers, some bearing Harridan’s old cipher.
 > I require a team capable of silent incursion, artifact containment, hostile engagement, and internal observation. I trust Deathwatch vigilance to preserve truth where standard Astartes protocol may incinerate it.
 > 
 > Respond with readiness confirmation or refusal under doctrinal justification.
 > 
-> For the Emperor’s silence and flame,  — _Seraphina Valeria_  _Lord Inquisitor, Ordo Xenos_
+> For the Emperor’s silence and flame,  — _Seraphina Valeria_  _Lord Inquisitor, Ordo Xenos_
 
 
 **Brother-Sergeant Elias Vorthan (Ultramarines, Team Leader)**

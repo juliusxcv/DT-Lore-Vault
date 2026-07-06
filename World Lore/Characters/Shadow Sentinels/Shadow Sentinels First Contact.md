@@ -7,21 +7,21 @@ aliases: []
 ---
 
 
-**Player: [[Slabs]]**
+**Player: [[Slabs - Ogryn]]**
 >**Sentinel**: What is this brute rambling about? Hold your fire, let's see what it has to say.
 
 If the ogryn presents the inquisitorial sigil: 
 > **Sentinels**: An inquisitorial retinue? Emperor’s mercy, why didn't you lead with that? Stand down, men!
 
 
-**Player: [[ALB-XXIII]]**
+**Player: [[ALB-XXIII - Skitari]]**
 > **Sentinels**: By the Throne, a skitarii? What’s a Mechanicus hound doing out here? Keep your weapons trained, but hold fire."
 
 If the skitarii presents the inquisitorial sigil: 
 > **Sentinels**: Inquisition? Mechanicus and inquisitorial ties? Lower your weapons before we all get executed for insubordination."
 
 
-**Player: [[Vexilia Thornkell]]**
+**Player: [[Vexilia Thornkell - Psyker]]**
 **Initial Approach:** 
  >**Sentinels**: "By the Throne! A witch!! Keep firing! — no, wait! She's sanctioned?!" 
  
@@ -29,7 +29,7 @@ If the skitarii presents the inquisitorial sigil:
 >**Sentinels:** "An inquisitorial psyker... Emperor forgive me. Stand down, all of you!"
 
 
-**Player: [[Helbrecht Nullis]]**
+**Player: [[Helbrecht Nullis - Zealot]]**
 >**Sentinels**: "Who is this madman shouting at us? They’re either devout... or completely insane. Hold your fire until we know for sure."
 
 If the zealot presents the inquisitorial sigil: 
